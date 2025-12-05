@@ -19,7 +19,7 @@ size_categories:
 task_categories:
 - translation
 task_ids:
-- translation_korean_to_english
+- text2text-generation
 pretty_name: Korean–English Multistyle Parallel Corpus
 ---
 
