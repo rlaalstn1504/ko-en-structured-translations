@@ -1,3 +1,28 @@
+---
+datasets:
+- username/ko-en-multistyle-corpus
+language:
+- ko
+- en
+license: mit
+tags:
+- translation
+- korean
+- english
+- parallel
+- seq2seq
+- transformer
+- education
+- nlp
+size_categories:
+- 10K<n<100K
+task_categories:
+- translation
+task_ids:
+- translation_korean_to_english
+pretty_name: Korean–English Multistyle Parallel Corpus
+---
+
 # Korean–English Multistyle Parallel Corpus  
 한국어 사용자에게 익숙한 표현 기반의 다도메인·다문체 한–영 병렬 코퍼스
 
@@ -108,7 +133,7 @@ make_dataset.ipynb의 코드를 실행하면 누구나 같은 구조로 데이�
 ```python
 from datasets import load_dataset
 
-ds = load_dataset("username/ko-en-multistyle-corpus")
+ds = load_dataset("strongminsu/ko-en-structured-translations")
 
 print(ds["train"][0])
 ```
