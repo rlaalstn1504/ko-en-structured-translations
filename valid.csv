@@ -1,0 +1,950 @@
+id,topic,style,type,ko,en,model,prompt_version,created_at,split
+1348,건강,조언/상담 스타일,원인·결과문,수분을 충분히 섭취하지 않으면 피로감을 느낄 수 있어.,Not drinking enough water can cause feelings of fatigue.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8922,자기계발,조언/상담 스타일,조건문,변화를 원한다면 지금 바로 시작해야 해.,"If you want change, you need to start right now.",gpt-4o-mini,v2_structured,20251205_160208,valid
+489,일상생활,대화체,복문,나는 매일 아침 조깅을 해.,I go jogging every morning.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3231,교육,조언/상담 스타일,조건문,공부할 시간을 정해 놓으면 좋아.,"If you set a specific time for studying, it will be beneficial.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7949,직장 관계,조언/상담 스타일,단문,직장에서의 소통이 중요해요.,Communication at work is essential.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9056,사회/뉴스,대화체,비교문,우리가 현재의 문제를 해결하지 않으면 미래가 어두워질 거야.,"If we don't address current issues, the future will be bleak.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8278,IT/AI,뉴스 기사체,조건문,인공지능이 학습하면 더 정확한 예측을 할 수 있습니다.,"If artificial intelligence learns, it can make more accurate predictions.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8208,IT/AI,SNS 스타일,복문,프로그래밍은 창의력을 발휘할 수 있는 좋은 방법이야.,Programming is a great way to express your creativity.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4784,스포츠,대화체,원인·결과문,좋은 팀워크 덕분에 우리는 승리할 수 있었어.,"Thanks to our great teamwork, we were able to win.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5209,스포츠,고객센터 안내 스타일,원인·결과문,스포츠를 통해 친구를 사귈 수 있어요.,You can make friends through participating in sports.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3233,교육,조언/상담 스타일,조건문,조용한 곳에서 공부하는 게 좋을 거야.,"If you study in a quiet place, you'll find it easier to concentrate.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5705,교통,대화체,복문,오늘 버스를 타고 학교에 가야 해.,I have to take the bus to school today.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9222,사회/뉴스,뉴스 기사체,조건문,"기후 변화가 계속된다면, 많은 생물이 위협받을 것이다.","If climate change continues, many species will be threatened.",gpt-4o-mini,v2_structured,20251205_160208,valid
+704,일상생활,뉴스 기사체,명령/요청문,도서관에서 책을 읽어보세요.,Try reading a book at the library.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5106,스포츠,조언/상담 스타일,단문,좋은 장비를 사용하는 게 도움이 돼.,Using good equipment helps.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8438,IT/AI,조언/상담 스타일,단문,기술 트렌드를 꾸준히 따라가야 해.,You need to keep up with technology trends consistently.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3292,교육,고객센터 안내 스타일,조건문,학생이 시험에서 좋은 성적을 얻으려면 꾸준히 공부해야 합니다.,Students must study consistently to achieve good grades on the exam.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3674,시간관리,감정 표현 스타일,명령/요청문,하루 일정을 계획해봐.,Try planning your daily schedule.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2409,업무,대화체,비교문,회의는 대면보다 화상으로 하는 게 더 편해.,It's often more convenient to hold meetings via video call rather than in person.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9097,사회/뉴스,문어체(보고서 스타일),조건문,정부가 정책을 변경하면 경제에 큰 영향을 미칠 것이다.,"If the government changes its policies, it will have a significant impact on the economy.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1328,건강,조언/상담 스타일,조건문,정기적으로 검진을 받으면 조기 발견할 수 있어요.,"If you get regular check-ups, you can detect issues early.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9144,사회/뉴스,SNS 스타일,단문,각국의 대응이 다르다는 걸 알았어.,I realized that each country has different responses.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5774,교통,문어체(보고서 스타일),조건문,교통 혼잡이 심하면 대중교통을 이용하는 것이 좋습니다.,"If traffic congestion is severe, it is advisable to use public transportation.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6096,교통,조언/상담 스타일,원인·결과문,보행자가 많은 지역에서는 속도를 줄여야 해.,You should slow down in areas with a lot of pedestrians.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5407,기후/날씨,뉴스 기사체,복문,전국적으로 기온이 높아지면서 열대야 현상이 발생하고 있습니다.,"As temperatures rise across the country, tropical nights are becoming more common.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7880,직장 관계,기술 설명체,명령/요청문,팀워크가 중요하다고 생각해요.,I believe that teamwork is essential.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8558,자기계발,대화체,복문,독서 습관을 기르면 많은 도움이 돼.,Cultivating a habit of reading can be very helpful.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7982,직장 관계,조언/상담 스타일,비교문,협력보다는 경쟁이 더 잘 돌아가는 팀도 있어.,Some teams function better with competition rather than cooperation.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6084,교통,조언/상담 스타일,비교문,차를 끌고 다니는 것은 불편할 때가 많아.,Driving can often be inconvenient.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4910,스포츠,SNS 스타일,원인·결과문,대회에 참가하면 경험이 쌓여.,Participating in competitions builds your experience.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4441,경제/금융,SNS 스타일,명령/요청문,부동산 시장이 많이 변하고 있어.,The real estate market is changing a lot.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1864,식당,고객센터 안내 스타일,조건문,다른 음식을 원하시면 언제든지 말씀해 주세요.,"If you would like something else, feel free to let us know at any time.",gpt-4o-mini,v2_structured,20251205_160208,valid
+987,건강,대화체,원인·결과문,스트레스를 관리하면 건강이 좋아져.,Managing stress leads to better health.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4684,경제/금융,고객센터 안내 스타일,단문,투자는 위험을 동반합니다.,Investments come with risks.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3953,감정표현,SNS 스타일,원인·결과문,맛있는 음식을 먹었더니 행복해졌어.,"I ate delicious food, and it made me so happy.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6888,문화/예술,기술 설명체,복문,한국의 명절에는 특유의 전통 놀이와 음악이 함께한다.,"During Korean holidays, unique traditional games and music coexist.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8765,자기계발,뉴스 기사체,원인·결과문,긍정적인 사고는 스트레스를 줄여줍니다.,Positive thinking reduces stress.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8598,자기계발,대화체,명령/요청문,긍정적인 생각을 하도록 해.,Try to maintain positive thoughts.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8248,IT/AI,SNS 스타일,명령/요청문,사물인터넷이 너무 흥미롭다.,The Internet of Things is so fascinating.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4050,감정표현,기술 설명체,조건문,즐거운 순간은 기억에 오래 남는다.,Joyful moments tend to stay in your memory for a long time.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6258,고객센터,문어체(보고서 스타일),비교문,상담원의 응답 시간이 짧을수록 고객 만족도가 높습니다.,"The shorter the response time of the agent, the higher the customer satisfaction.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3486,시간관리,SNS 스타일,비교문,일을 빨리 끝내면 여유 시간이 생겨.,Finishing tasks quickly gives you free time.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6090,교통,조언/상담 스타일,원인·결과문,교통체증이 심하면 출근 시간이 길어져요.,"When traffic congestion is heavy, commuting time increases.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2475,업무,문어체(보고서 스타일),비교문,목표 설정이 명확한 조직은 성과를 더 잘 달성합니다.,Organizations with clear goal setting tend to achieve better outcomes.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9386,사회/뉴스,조언/상담 스타일,복문,정치 상황이 변하면 일상생활에도 큰 영향을 미칠 수 있어.,Changes in the political landscape can significantly affect daily life.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5239,기후/날씨,대화체,조건문,더운 날씨가 계속되면 에어컨을 틀어야 해요.,"If the hot weather continues, you should turn on the air conditioning.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6455,고객센터,기술 설명체,명령/요청문,계정을 삭제하고 싶습니다.,I would like to delete my account.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7361,쇼핑,기술 설명체,단문,구매 전 상품 정보를 꼭 확인하세요.,Always check the product information before making a purchase.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3874,감정표현,문어체(보고서 스타일),조건문,"기분이 좋지 않다면, 산책을 권장해.","If you're not feeling well, I recommend going for a walk.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1199,건강,기술 설명체,복문,담배는 여러 질병의 원인이 되므로 피해야 합니다.,Smoking should be avoided as it leads to various diseases.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4182,감정표현,조언/상담 스타일,비교문,행복한 순간을 사진으로 남기는 것도 좋은 방법이야.,Capturing happy moments in photos is also a great way.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1519,식당,문어체(보고서 스타일),비교문,다른 식당보다 메뉴 선택이 다양하다.,There is a wider variety of menu options than at other restaurants.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8606,자기계발,문어체(보고서 스타일),단문,목표를 설정하는 것이 중요해요.,Setting goals is essential.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5478,기후/날씨,기술 설명체,조건문,"태풍이 접근하면, 미리 대비하는 것이 중요하다.",It is important to prepare in advance when a typhoon approaches.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7863,직장 관계,기술 설명체,비교문,직장 내 갈등은 빠르게 해결하는 것이 중요하다.,Resolving conflicts at work quickly is crucial.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6813,문화/예술,SNS 스타일,명령/요청문,한번 클래식 음악회에 가보자.,Let's go to a classical concert sometime.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1800,식당,조언/상담 스타일,조건문,디저트를 추가하고 싶으면 서버에게 말해봐.,"If you want to add a dessert, just let the server know.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1015,건강,문어체(보고서 스타일),복문,식습관 개선은 비만 예방에 큰 도움이 됩니다.,Improving dietary habits significantly helps in preventing obesity.,gpt-4o-mini,v2_structured,20251205_160208,valid
+129,여행,SNS 스타일,단문,여행이 끝나기 싫어.,I don’t want this trip to end.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1365,건강,고객센터 안내 스타일,단문,물은 하루에 충분히 마셔야 해요.,You should drink plenty of water every day.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8284,IT/AI,뉴스 기사체,비교문,5G 기술은 모바일 인터넷의 속도를 혁신적으로 향상시킨다.,5G technology dramatically enhances mobile internet speeds.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7176,쇼핑,문어체(보고서 스타일),단문,온라인 쇼핑이 더 편리하다고 생각해요.,I think online shopping is more convenient.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4471,경제/금융,뉴스 기사체,조건문,"환율이 불안정하다면, 수출업체들은 어려움을 겪을 수 있다.","If the exchange rate is unstable, exporters may face difficulties.",gpt-4o-mini,v2_structured,20251205_160208,valid
+892,일상생활,고객센터 안내 스타일,단문,배송 주소를 변경할 수 있나요?,Is it possible to change the shipping address?,gpt-4o-mini,v2_structured,20251205_160208,valid
+2794,업무,고객센터 안내 스타일,단문,고객센터에 문의해 주세요.,Please contact customer service.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1970,기술,문어체(보고서 스타일),복문,기술의 발전으로 인해 생활이 편리해졌습니다.,The advancement of technology has made life more convenient.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5456,기후/날씨,기술 설명체,단문,강수량이 지역마다 다르게 나타난다.,Precipitation varies significantly across different regions.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4404,경제/금융,SNS 스타일,조건문,경제가 좋아지면 취업도 쉬워져.,"If the economy improves, finding a job becomes easier.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5758,교통,문어체(보고서 스타일),단문,자전거 도로가 필요해요.,We need more bike lanes.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6528,고객센터,조언/상담 스타일,복문,내가 요청한 서비스는 언제 제공되나요?,When will the service I requested be provided?,gpt-4o-mini,v2_structured,20251205_160208,valid
+6295,고객센터,SNS 스타일,복문,"이 제품에 문제가 생겼는데, 어떻게 해결하죠?",There's an issue with this product; how can I resolve it?,gpt-4o-mini,v2_structured,20251205_160208,valid
+3924,감정표현,SNS 스타일,복문,어제의 실수 때문에 지금도 괴로워.,I'm still hurting because of the mistake I made yesterday.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5414,기후/날씨,뉴스 기사체,복문,기후 변화 대응을 위한 국제적 협력이 필요합니다.,International cooperation is essential in tackling climate change.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7596,직장 관계,대화체,단문,이번 주 말까지 작업을 끝내야 해.,We need to finish the work by the end of this week.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8753,자기계발,뉴스 기사체,비교문,목표 설정은 성공의 첫걸음이다.,Setting goals is the first step towards success.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3250,교육,조언/상담 스타일,비교문,피드백은 학습 과정에서 큰 역할을 해요.,Feedback plays a significant role in the learning process.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6571,고객센터,조언/상담 스타일,명령/요청문,서비스 이용 중 문제가 생겼습니다.,I've run into an issue while using the service.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6639,문화/예술,대화체,단문,한국의 전통 의상은 아름다워.,Traditional Korean clothing is beautiful.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7352,쇼핑,기술 설명체,단문,이 쇼핑몰은 다양한 상품을 제공합니다.,This shopping mall offers a variety of products.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8874,자기계발,감정 표현 스타일,비교문,진정한 변화는 내면에서 시작돼.,True change starts from within.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8298,IT/AI,뉴스 기사체,원인·결과문,가상 현실 기술의 발전으로 교육 방식이 변화하고 있다.,The advancement of virtual reality technology is changing educational methods.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1209,건강,기술 설명체,조건문,물 섭취량이 부족하면 탈수 증상이 나타날 수 있다.,"If your water intake is insufficient, you may experience dehydration symptoms.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3869,감정표현,문어체(보고서 스타일),복문,그 영화는 나에게 깊은 감정을 일으켰어.,The movie evoked deep emotions within me.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7474,쇼핑,조언/상담 스타일,단문,온라인 쇼핑은 시간 절약이 돼.,Shopping online saves you a lot of time.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9059,사회/뉴스,대화체,원인·결과문,이제는 재택근무가 보편화되었어요.,"As a result, remote work has become common.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4066,감정표현,기술 설명체,비교문,감사함은 꽃이 피어난 것과 같다.,Gratitude is like a blooming flower.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8734,자기계발,뉴스 기사체,복문,자기계발을 위해 매일 조금씩 독서를 하세요.,Try to read a little every day for your personal development.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8229,IT/AI,SNS 스타일,원인·결과문,AI가 발전하고 있어서 많은 일자리가 사라질 거야.,"As AI advances, many jobs are likely to disappear.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1240,건강,기술 설명체,명령/요청문,비타민과 미네랄이 풍부한 음식을 섭취하라.,Consume foods rich in vitamins and minerals.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2290,기술,조언/상담 스타일,비교문,"앱 개발은 정교한 예술과 같지만, 웹사이트 제작은 더 직관적이야.","App development is a refined art, whereas website creation is often more intuitive.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2741,업무,조언/상담 스타일,단문,피드백을 받는 것도 중요해.,Receiving feedback is also important.,gpt-4o-mini,v2_structured,20251205_160208,valid
+276,여행,기술 설명체,비교문,소규모 투어는 대규모 관광보다 더 개인적인 경험을 선사한다.,Small group tours offer a more personal experience compared to large-scale tourism.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4586,경제/금융,감정 표현 스타일,조건문,경제 위기가 닥친다면 많은 사람들이 힘들어질 거예요.,"If an economic crisis occurs, many people will face hardships.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1036,건강,문어체(보고서 스타일),비교문,수면 부족은 면역력을 약화시킨다.,Lack of sleep weakens the immune system.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1230,건강,기술 설명체,원인·결과문,비타민 D는 뼈의 건강을 지원한다.,Vitamin D supports bone health.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6835,문화/예술,뉴스 기사체,조건문,"만약 당신이 미술관에 간다면, 여러 작품을 감상할 수 있습니다.","If you visit an art museum, you'll be able to appreciate various artworks.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1009,건강,문어체(보고서 스타일),단문,비타민이 풍부한 과일과 채소를 섭취해야 한다.,One should consume fruits and vegetables rich in vitamins.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5281,기후/날씨,문어체(보고서 스타일),단문,전 세계적으로 기온이 계속 상승하고 있다.,Global temperatures continue to rise.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7787,직장 관계,뉴스 기사체,복문,갈등을 해결하는 방법을 배우는 것이 중요합니다.,It is important to learn how to resolve conflicts.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5179,스포츠,고객센터 안내 스타일,복문,스포츠를 통해 건강을 유지하는 것이 중요합니다.,It is important to maintain health through sports.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3829,감정표현,대화체,비교문,화가 날 때는 한 발 물러서서 생각해봐.,"When you're angry, it's helpful to take a step back and think.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2533,업무,SNS 스타일,비교문,업무에 집중하는 것은 여가 시간을 즐기는 것보다 중요해요.,Focusing on work is more important than enjoying leisure time.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4294,경제/금융,대화체,비교문,주식 시장은 경제의 바로미터 같아.,The stock market is like a barometer of the economy.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1059,건강,문어체(보고서 스타일),명령/요청문,규칙적인 수면 습관을 유지해야 합니다.,You should maintain a regular sleep pattern.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6263,고객센터,문어체(보고서 스타일),비교문,소셜 미디어를 통한 지원은 요즘 트렌드입니다.,Support through social media is a current trend.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7169,쇼핑,대화체,명령/요청문,주문한 상품은 언제 도착해요?,When will the item I ordered arrive?,gpt-4o-mini,v2_structured,20251205_160208,valid
+8095,IT/AI,대화체,조건문,"이 앱이 사용하기 어렵다면, 다른 대안을 찾아봐야 해.","If this app is difficult to use, you should look for other alternatives.",gpt-4o-mini,v2_structured,20251205_160208,valid
+282,여행,기술 설명체,원인·결과문,기차 여행은 색다른 경험을 제공해 주기 때문에 인기 있다.,Train travel is popular because it offers a unique experience.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1044,건강,문어체(보고서 스타일),원인·결과문,규칙적인 운동은 건강을 증진시킵니다.,Regular exercise enhances health.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1317,건강,조언/상담 스타일,복문,과일과 채소를 많이 섭취하는 것이 중요해.,It's important to consume plenty of fruits and vegetables.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6655,문화/예술,대화체,조건문,"한국 전통 음악에 관심이 있다면, 국악 공연을 꼭 들어봐.","If you're interested in traditional Korean music, make sure to listen to a Gugak performance.",gpt-4o-mini,v2_structured,20251205_160208,valid
+969,건강,대화체,조건문,야채를 많이 먹으면 면역력이 높아질 거야.,"If you eat a lot of vegetables, your immunity will improve.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2382,업무,대화체,단문,너무 많은 이메일이 와서 짜증 나.,I'm frustrated with the overwhelming number of emails.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3954,감정표현,SNS 스타일,원인·결과문,오랜만에 친구를 만나서 정말 즐거웠어.,"I met my friend after a long time, and it was so much fun.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1940,기술,대화체,원인·결과문,AI의 사용이 증가하는 이유는 효율성이 높아서야.,The reason for the increased use of AI is its high efficiency.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7842,직장 관계,기술 설명체,복문,"직장 내 갈등이 발생할 경우, 즉시 해결해야 합니다.","When conflicts arise in the workplace, they should be addressed immediately.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1275,건강,감정 표현 스타일,비교문,차를 마시는 것이 물을 마시는 것보다 더 기분이 좋을 때가 있다.,There are times when drinking tea feels better than drinking water.,gpt-4o-mini,v2_structured,20251205_160208,valid
+620,일상생활,SNS 스타일,조건문,장난감 가게에 가면 아이들이 행복할 거야.,"If we go to the toy store, the kids will be happy.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7927,직장 관계,감정 표현 스타일,비교문,직장 내 갈등을 해결하는 게 중요해.,Resolving conflicts in the workplace is crucial.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1743,식당,감정 표현 스타일,조건문,이 메뉴를 먹어보면 기분이 좋아질 거야.,"If you try this dish, it will surely lift your spirits.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1391,건강,고객센터 안내 스타일,조건문,음식을 천천히 씹으면 소화가 잘 됩니다.,"If you chew your food slowly, it will aid in digestion.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2204,기술,감정 표현 스타일,단문,클라우드 저장소 덕분에 데이터를 쉽게 관리할 수 있어.,"Thanks to cloud storage, managing data has become easy.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5944,교통,기술 설명체,복문,정해진 속도를 초과하여 운전하는 것은 위험하고 불법이다.,Driving over the designated speed limit is both dangerous and illegal.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1580,식당,SNS 스타일,원인·결과문,이 식당은 항상 사람이 많아서 예약해야 해.,"This restaurant is always crowded, so you need to make a reservation.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1656,식당,뉴스 기사체,명령/요청문,주문한 음식이 언제 나올까요?,When can we expect our food to arrive?,gpt-4o-mini,v2_structured,20251205_160208,valid
+3569,시간관리,기술 설명체,단문,시간 블록 기법을 활용해봐.,Try using the time blocking technique.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2353,기술,고객센터 안내 스타일,비교문,온라인 채팅 서비스는 매우 편리합니다.,The online chat service is extremely convenient.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2213,기술,감정 표현 스타일,복문,가상현실이 점점 더 대중화되고 있어.,Virtual reality is becoming increasingly popular among the masses.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7372,쇼핑,기술 설명체,조건문,세일이 시작되면 더 많은 고객이 방문해요.,"When the sale starts, more customers tend to visit.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6117,교통,고객센터 안내 스타일,단문,버스를 타려면 어떤 정류장에서 내려야 하나요?,Which bus stop should I get off to catch the bus?,gpt-4o-mini,v2_structured,20251205_160208,valid
+9464,사회/뉴스,고객센터 안내 스타일,비교문,우리 회사는 빠른 응대가 장점이에요.,Our company prides itself on its prompt responses.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6053,교통,조언/상담 스타일,단문,지하철이 가장 빠른 방법이야.,The subway is the fastest way to get around.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3179,교육,감정 표현 스타일,조건문,"시간 관리를 잘 한다면, 스트레스를 줄일 수 있어.","If you manage your time well, you can reduce stress.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3193,교육,감정 표현 스타일,원인·결과문,친구와 함께 공부하니까 더 재미있어졌어.,Studying with a friend made it much more enjoyable.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1308,건강,조언/상담 스타일,단문,충분한 수면을 취하는 것이 필수적입니다.,Getting enough sleep is essential for your health.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6100,교통,조언/상담 스타일,명령/요청문,대중교통을 이용하는 게 좋아.,It's a good idea to use public transportation.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7030,문화/예술,조언/상담 스타일,비교문,미술을 통해 감정을 표현하는 것은 음악으로 표현하는 것과 같아요.,Expressing emotions through art is much like conveying them through music.,gpt-4o-mini,v2_structured,20251205_160208,valid
+576,일상생활,문어체(보고서 스타일),원인·결과문,음식을 만들 시간이 없어서 배달을 시켰다.,I ordered delivery because I didn't have time to cook.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2361,기술,고객센터 안내 스타일,원인·결과문,비밀번호를 자주 변경하면 계정 안전성이 높아집니다.,Frequent password changes can enhance the security of your account.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6657,문화/예술,대화체,조건문,"혹시 영화를 좋아한다면, 이 감독의 작품을 추천할게.","If you like movies, I would recommend works by this director.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7116,쇼핑,대화체,단문,이 가방은 어디서 샀어요?,Where did you buy this bag?,gpt-4o-mini,v2_structured,20251205_160208,valid
+5803,교통,문어체(보고서 스타일),원인·결과문,주차 공간이 부족하면 불법 주정차가 늘어납니다.,A lack of parking spaces leads to an increase in illegal parking.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8351,IT/AI,기술 설명체,원인·결과문,빅데이터 분석을 통해 고객의 행동 패턴을 이해할 수 있다.,Analyzing big data enables an understanding of customer behavior patterns.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7444,쇼핑,감정 표현 스타일,비교문,온라인 쇼핑이 오프라인 쇼핑보다 더 편리해.,Online shopping is more convenient than shopping in stores.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6277,고객센터,문어체(보고서 스타일),명령/요청문,"문제가 발생한 경우, 언제든지 저희에게 연락해 주세요.","If you encounter any issues, please feel free to contact us at any time.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1281,건강,감정 표현 스타일,비교문,규칙적인 운동이 스트레스를 줄이는 데 더 효과적이야.,Regular exercise is more effective at reducing stress than any other activity.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8525,IT/AI,고객센터 안내 스타일,비교문,모바일 앱 개발은 데스크톱 개발과 다른 기술을 요구해요.,Mobile app development requires different skills compared to desktop development.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4958,스포츠,뉴스 기사체,비교문,양궁은 정확성이 축구보다 훨씬 더 중요하다.,Archery values precision far more than soccer does.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8596,자기계발,대화체,명령/요청문,매일 아침 일찍 일어나.,Wake up early every morning.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5898,교통,뉴스 기사체,조건문,대중교통이 발전하면 도시 생활이 더 편리해질 것이다.,"If public transport improves, urban life will become more convenient.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5725,교통,대화체,비교문,지하철을 타는 게 차를 이용하는 것보다 빠르지.,Taking the subway is faster than using a car.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1994,기술,문어체(보고서 스타일),비교문,블록체인은 거래의 안전성을 높이는 기술입니다.,Blockchain is a technology that enhances the security of transactions.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2640,업무,기술 설명체,조건문,업무를 시작하기 전에 우선순위를 정하면 도움이 된다.,It helps to prioritize tasks before you start working.,gpt-4o-mini,v2_structured,20251205_160208,valid
+270,여행,기술 설명체,비교문,도시 여행은 자연 여행보다 더 많은 활동을 포함한다.,City travel includes more activities than nature travel.,gpt-4o-mini,v2_structured,20251205_160208,valid
+630,일상생활,SNS 스타일,비교문,정리 정돈하는 게 복잡한 것보다 훨씬 쉽다.,Organizing is much easier than dealing with chaos.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9017,사회/뉴스,대화체,단문,최근 정치 뉴스가 많이 화제가 되고 있어.,"Recently, political news has been quite a hot topic.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3082,교육,뉴스 기사체,명령/요청문,온라인 교육의 장점은 무엇인가요?,What are the advantages of online education?,gpt-4o-mini,v2_structured,20251205_160208,valid
+3467,시간관리,SNS 스타일,복문,쉬는 시간을 가지는 것도 중요하니까 잘 챙겨!,"Taking breaks is important too, so make sure to take care of that!",gpt-4o-mini,v2_structured,20251205_160208,valid
+6431,고객센터,기술 설명체,조건문,서비스 이용 중 문제가 생기면 즉시 보고해야 합니다.,You should report any issues immediately while using the service.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9455,사회/뉴스,고객센터 안내 스타일,조건문,주말에는 고객센터가 운영되지 않아요.,Please note that our customer service is not available on weekends.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7063,문화/예술,고객센터 안내 스타일,단문,예술은 사람들을 연결하는 힘이 있습니다.,Art has the power to connect people.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4397,경제/금융,SNS 스타일,복문,신용카드 사용을 줄이는 게 재정 관리를 잘하는 방법이야.,Cutting down on credit card usage is a smart way to manage your finances.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4024,감정표현,뉴스 기사체,명령/요청문,스트레스를 효과적으로 해소하라.,Find effective ways to relieve stress.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9236,사회/뉴스,뉴스 기사체,원인·결과문,"최근의 연구에 따르면, 공기 오염이 건강에 미치는 영향이 크다고 합니다.",Recent studies indicate that air pollution has a significant impact on health.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5544,기후/날씨,감정 표현 스타일,조건문,안개가 낀 날에는 운전할 때 조심해야 해.,You need to be cautious while driving on foggy days.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5569,기후/날씨,감정 표현 스타일,명령/요청문,바람이 너무 세서 밖에 나가기 싫어.,I don't want to go outside because the wind is so strong.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2047,기술,SNS 스타일,조건문,"만약 인터넷 속도가 빨라지면, 스트리밍이 더 원활할 거야.","If the internet speed increases, streaming will be smoother.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4357,경제/금융,문어체(보고서 스타일),비교문,실업률이 낮을수록 경제 상황이 좋다고 볼 수 있다.,A lower unemployment rate often indicates a healthier economy.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8369,IT/AI,감정 표현 스타일,단문,AI는 우리의 삶을 변화시키고 있어요.,AI is transforming our lives.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8058,직장 관계,고객센터 안내 스타일,원인·결과문,업무 중 휴식은 생산성을 높입니다.,Taking breaks during work boosts productivity.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2114,기술,뉴스 기사체,비교문,"스마트폰은 커뮤니케이션을 간편하게 하지만, 중독 문제를 야기한다.","Smartphones simplify communication, but they can also cause addiction issues.",gpt-4o-mini,v2_structured,20251205_160208,valid
+28,여행,대화체,조건문,자연 경관을 즐기고 싶으면 카메라를 가져와.,Bring your camera if you want to enjoy the natural scenery.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2041,기술,SNS 스타일,조건문,"기술이 발전하면, 우리의 삶이 더 나아질 거야.","If technology advances, our lives will improve.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3929,감정표현,SNS 스타일,복문,내 마음을 이해해 줄 사람이 필요해.,I need someone who can understand my feelings.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2939,교육,문어체(보고서 스타일),조건문,"추가 학습 자료를 활용한다면, 이해도를 높일 수 있다.","If one utilizes additional learning materials, they can enhance their comprehension.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3217,교육,조언/상담 스타일,단문,휴식도 잊지 마세요.,Don't forget to take breaks.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4934,스포츠,뉴스 기사체,복문,테니스 대회에서는 많은 팬들이 그의 경기를 기다리고 있다.,"At the tennis tournament, many fans are eagerly awaiting his matches.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3815,감정표현,대화체,복문,아무리 힘들어도 포기하지 않을 거야.,"No matter how tough it gets, I won’t give up.",gpt-4o-mini,v2_structured,20251205_160208,valid
+130,여행,SNS 스타일,복문,이번 여름휴가에는 바다로 떠날 거야.,"This summer vacation, I'm planning to go to the beach.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8087,IT/AI,대화체,복문,네가 사용하는 소프트웨어는 어떤 기능이 있어?,What features does the software you use have?,gpt-4o-mini,v2_structured,20251205_160208,valid
+6105,교통,조언/상담 스타일,명령/요청문,주차 공간을 미리 확인하세요.,Check for parking spaces in advance.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2279,기술,조언/상담 스타일,조건문,프로그래밍을 배운다면 더 좋은 직업을 가질 수 있을 거예요.,"If you learn programming, you might get a better job.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4600,경제/금융,감정 표현 스타일,비교문,환율이 변동할 때 수출입에 미치는 영향이 커.,The impact on exports and imports is greater when the exchange rate fluctuates.,gpt-4o-mini,v2_structured,20251205_160208,valid
+14,여행,대화체,복문,항공권 예약을 미리 해두면 가격이 훨씬 저렴해.,"If you book your flight tickets in advance, the prices are much cheaper.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8754,자기계발,뉴스 기사체,비교문,꾸준한 학습이 개인의 성장에 필수적이다.,Continuous learning is essential for personal growth.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4477,경제/금융,뉴스 기사체,비교문,실업률은 증가했지만 고용 기회는 여전히 많다.,"Although the unemployment rate has risen, job opportunities remain plentiful.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5948,교통,기술 설명체,복문,교통사고를 예방하기 위해 항상 안전벨트를 착용해야 한다.,"To prevent traffic accidents, one should always wear a seatbelt.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1526,식당,문어체(보고서 스타일),원인·결과문,직원들이 친절하게 응대하면 재방문율이 상승한다.,"When staff members greet customers warmly, the rate of return visits increases.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2366,기술,고객센터 안내 스타일,원인·결과문,네트워크 연결이 불안정하면 음성 통화 품질이 나빠질 수 있습니다.,An unstable network connection can degrade the quality of voice calls.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4649,경제/금융,조언/상담 스타일,조건문,예산이 부족하다면 비필수 지출을 줄여보세요.,"If your budget is tight, try to cut down on non-essential expenses.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3053,교육,뉴스 기사체,조건문,"대학에 가고 싶다면, 고등학교 성적이 중요하다.","If you want to go to college, your high school grades are important.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4006,감정표현,뉴스 기사체,비교문,그녀는 사랑을 통해 힘을 얻는다.,She finds strength through love.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6981,문화/예술,감정 표현 스타일,원인·결과문,책을 읽으면 새로운 세계를 경험할 수 있어.,Reading books allows you to experience new worlds.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2341,기술,고객센터 안내 스타일,조건문,"업데이트가 필요하면, 알림을 확인하세요.","If an update is required, please check your notifications.",gpt-4o-mini,v2_structured,20251205_160208,valid
+375,여행,조언/상담 스타일,복문,여행 가방은 필요한 물건만 최소한으로 챙기는 게 좋아.,It's better to pack only the essentials in your travel bag.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7955,직장 관계,조언/상담 스타일,단문,협력은 성공의 열쇠입니다.,Collaboration is the key to success.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6478,고객센터,감정 표현 스타일,조건문,문제가 해결되지 않으면 다시 연락해 주세요.,Please reach out again if the issue isn't resolved.,gpt-4o-mini,v2_structured,20251205_160208,valid
+526,일상생활,대화체,명령/요청문,저녁 먹으러 가자.,Let's go have dinner.,gpt-4o-mini,v2_structured,20251205_160208,valid
+940,일상생활,고객센터 안내 스타일,명령/요청문,비밀번호를 재설정하고 싶어요.,I want to reset my password.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3370,시간관리,대화체,비교문,쉬는 시간을 가지는 것이 오히려 도움이 될 때가 많아.,Taking breaks can often be more beneficial than working non-stop.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5719,교통,대화체,조건문,보행자가 많으면 속도를 줄여야 해.,"If there are many pedestrians, you need to slow down.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4574,경제/금융,감정 표현 스타일,복문,주식 시장이 계속 하락하는 것 같아.,It seems like the stock market keeps declining.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6896,문화/예술,기술 설명체,조건문,문화 축제에 참여하면 새로운 사람들을 만날 수 있어.,"If you participate in a cultural festival, you can meet new people.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2148,기술,기술 설명체,복문,인공지능은 데이터 분석의 새로운 패러다임을 제시하고 있다.,Artificial intelligence is presenting a new paradigm for data analysis.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3592,시간관리,기술 설명체,조건문,자투리 시간을 활용하면 여유가 생긴다.,"If you make use of spare time, you will find yourself with more free time.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4890,스포츠,SNS 스타일,조건문,"해변에서 서핑을 배우고 싶다면, 함께 가자!","If you want to learn surfing at the beach, let's go together!",gpt-4o-mini,v2_structured,20251205_160208,valid
+9028,사회/뉴스,대화체,복문,"정부는 새로운 정책을 발표했는데, 국민들이 궁금해 해.","The government announced a new policy, and the citizens are curious about it.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2959,교육,문어체(보고서 스타일),원인·결과문,독서 습관을 기르면 언어 능력이 향상된다.,Cultivating a reading habit enhances language skills.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6165,교통,고객센터 안내 스타일,명령/요청문,차량 주차 요금은 얼마인가요?,How much is the parking fee for vehicles?,gpt-4o-mini,v2_structured,20251205_160208,valid
+3624,시간관리,감정 표현 스타일,단문,시간 관리를 잘하면 스트레스가 줄어.,Managing your time well can reduce stress.,gpt-4o-mini,v2_structured,20251205_160208,valid
+530,일상생활,대화체,명령/요청문,이따가 나랑 전화해.,"Call me later, okay?",gpt-4o-mini,v2_structured,20251205_160208,valid
+9109,사회/뉴스,문어체(보고서 스타일),비교문,서울의 대중교통은 런던보다 더 효율적이라는 평가를 받는다.,Seoul's public transportation is often regarded as more efficient than that of London.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3715,시간관리,조언/상담 스타일,비교문,정해진 시간 안에 일을 끝내는 게 더 생산적이야.,Finishing tasks within a set time frame is more productive.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8343,IT/AI,기술 설명체,비교문,블록체인은 보안성이 강력하다.,Blockchain technology provides robust security.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4733,경제/금융,고객센터 안내 스타일,명령/요청문,상품에 대한 문의가 있으시면 언제든지 연락 주세요.,"If you have any questions about our products, please feel free to reach out.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1270,건강,감정 표현 스타일,조건문,규칙적인 식습관을 유지하면 기분이 나아질 거야.,"If you maintain regular eating habits, you'll feel better.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4282,경제/금융,대화체,복문,외환 시장의 변화가 큰 영향을 미쳤어.,Changes in the foreign exchange market have had a significant impact.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1395,건강,고객센터 안내 스타일,비교문,정기적으로 운동하는 것은 체중 관리에 도움이 됩니다.,Regular exercise is helpful for weight management.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4851,스포츠,문어체(보고서 스타일),명령/요청문,축구는 세계에서 가장 인기 있는 스포츠이다.,Soccer is the most popular sport in the world.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4010,감정표현,뉴스 기사체,원인·결과문,그의 말이 상처를 주었기 때문에 나는 슬펐다.,I was saddened because his words hurt me.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4391,경제/금융,SNS 스타일,단문,지금이 투자하기 좋은 시점인지 잘 모르겠어.,I'm not sure if now is a good time to invest.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1798,식당,조언/상담 스타일,복문,좋은 분위기에서 식사할 수 있는 곳이야.,It's a place where you can enjoy a meal in a nice atmosphere.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2980,교육,SNS 스타일,단문,내일 발표가 있는데 긴장돼.,I have a presentation tomorrow and I’m nervous.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1442,식당,대화체,복문,이곳은 주차 공간이 충분한가요?,Is there enough parking space here?,gpt-4o-mini,v2_structured,20251205_160208,valid
+9280,사회/뉴스,기술 설명체,조건문,"정보의 정확성이 보장되지 않으면, 대중의 신뢰가 저하될 수 있다.","If the accuracy of information is not guaranteed, public trust can decline.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2626,업무,기술 설명체,복문,이 프로젝트는 3개월 안에 완료되어야 해.,This project needs to be completed within three months.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3812,감정표현,대화체,복문,어제는 기분이 나빴는데 오늘은 좀 나아졌어.,"I felt bad yesterday, but I’m feeling a bit better today.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5632,기후/날씨,조언/상담 스타일,명령/요청문,맑은 날에는 야외 활동을 계획하세요.,Plan outdoor activities on clear days.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8279,IT/AI,뉴스 기사체,비교문,AI는 인간의 직업을 대체할 가능성이 높다.,AI has a high potential to replace human jobs.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7285,쇼핑,SNS 스타일,명령/요청문,이거 너무 비싸지 않아?,Isn't this a bit too expensive?,gpt-4o-mini,v2_structured,20251205_160208,valid
+1274,건강,감정 표현 스타일,비교문,운동하는 것이 나가서 걷는 것보다 건강에 더 좋다.,Exercising is better for your health than just going for a walk.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6564,고객센터,조언/상담 스타일,원인·결과문,상담 서비스 이용에 대해 궁금한 점이 있으신가요?,Do you have any questions regarding the consulting service?,gpt-4o-mini,v2_structured,20251205_160208,valid
+7785,직장 관계,뉴스 기사체,복문,상사와의 원활한 소통이 업무 효율을 높입니다.,Smooth communication with superiors increases work efficiency.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4704,경제/금융,고객센터 안내 스타일,조건문,신용카드를 사용하면 포인트를 적립할 수 있어요.,"When you use a credit card, you can earn points.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7091,문화/예술,고객센터 안내 스타일,비교문,서양 문학은 개인의 고뇌와 갈등을 중시해요.,Western literature emphasizes individual struggles and conflicts.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1713,식당,기술 설명체,명령/요청문,음식이 너무 맛있어요.,The food is really delicious.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7730,직장 관계,SNS 스타일,복문,회의 중에 나의 의견을 잘 들어줬어.,They listened to my opinion during the meeting.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9261,사회/뉴스,기술 설명체,단문,이번 회의에서 많은 주제가 논의될 것이다.,Many topics will be discussed in this meeting.,gpt-4o-mini,v2_structured,20251205_160208,valid
+956,건강,대화체,복문,하루에 물을 충분히 마시는 것이 좋아.,It's good to drink enough water every day.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6676,문화/예술,대화체,원인·결과문,영화를 보게 되면 다양한 문화에 대해 배울 수 있어.,Watching movies allows us to learn about diverse cultures.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8081,IT/AI,대화체,복문,그 프로젝트는 마감일이 다가오니까 서둘러야 해.,You need to hurry up with that project since the deadline is approaching.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8448,IT/AI,조언/상담 스타일,복문,기술 트렌드를 지속적으로 파악하는 것이 필요해.,It's essential to stay updated with the latest technology trends.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8901,자기계발,조언/상담 스타일,단문,작은 목표부터 설정해.,Start by setting small goals.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9084,사회/뉴스,문어체(보고서 스타일),단문,회사는 새로운 기술을 도입할 계획이다.,The company plans to introduce new technology.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6949,문화/예술,감정 표현 스타일,복문,전통 춤은 우리의 역사와 정체성을 담고 있어.,Traditional dance encapsulates our history and identity.,gpt-4o-mini,v2_structured,20251205_160208,valid
+404,여행,조언/상담 스타일,원인·결과문,여행 중에 사진을 많이 찍으면 좋은 추억이 남아요.,Taking lots of photos while traveling creates great memories.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2072,기술,SNS 스타일,명령/요청문,네가 추천한 웹사이트 잘 사용하고 있어.,I'm really using the website you recommended.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9247,사회/뉴스,뉴스 기사체,명령/요청문,이번 주에 중요한 경제 지표가 발표될 예정이다.,Important economic indicators are set to be released this week.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1978,기술,문어체(보고서 스타일),복문,5G 네트워크의 도입은 통신의 미래를 바꾸고 있습니다.,The introduction of 5G networks is changing the future of communication.,gpt-4o-mini,v2_structured,20251205_160208,valid
+159,여행,SNS 스타일,비교문,캘리포니아의 해변은 플로리다 해변보다 더 아름다워.,California beaches are more beautiful than those in Florida.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5845,교통,SNS 스타일,비교문,자전거는 환경에 좋지만 멀리 가기에는 힘들어.,"Bicycles are good for the environment, but they're tough for long distances.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7006,문화/예술,조언/상담 스타일,복문,미술관을 방문하면 새로운 영감을 받을 수 있어.,Visiting an art gallery can provide you with fresh inspiration.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3889,감정표현,문어체(보고서 스타일),비교문,두려움은 종종 예상하지 못한 일에서 비롯된다.,Fear often arises from unexpected events.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5452,기후/날씨,뉴스 기사체,명령/요청문,여름철 폭염이 심화되고 있습니다.,The heatwave during summer is intensifying.,gpt-4o-mini,v2_structured,20251205_160208,valid
+903,일상생활,고객센터 안내 스타일,복문,이용 중 불편한 점이 있다면 말씀해 주세요.,Please let us know if you encounter any inconveniences while using our services.,gpt-4o-mini,v2_structured,20251205_160208,valid
+353,여행,감정 표현 스타일,명령/요청문,조용한 산속에서 힐링하고 싶어.,I want to heal in the quiet mountains.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5327,기후/날씨,문어체(보고서 스타일),명령/요청문,최근 날씨 패턴이 불규칙해지고 있다.,Recent weather patterns have become increasingly irregular.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6079,교통,조언/상담 스타일,조건문,운전 중에는 핸드폰을 사용하지 않는 게 안전해.,It's safer not to use your phone while driving.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6237,고객센터,문어체(보고서 스타일),복문,고객님의 문의에 대해 최대한 신속하게 답변드리겠습니다.,We will respond to your inquiry as quickly as possible.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4541,경제/금융,기술 설명체,비교문,주택 시장과 임대 시장은 서로 다른 경제 동향을 반영한다.,The housing market and rental market reflect different economic trends.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4131,감정표현,감정 표현 스타일,원인·결과문,오랜만에 친구를 만나서 기분이 좋았어.,I felt great after meeting my friend for the first time in a while.,gpt-4o-mini,v2_structured,20251205_160208,valid
+755,일상생활,기술 설명체,원인·결과문,차를 마시면 긴장이 풀린다.,Drinking tea relaxes your mind.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5834,교통,SNS 스타일,조건문,지하철이 고장 나면 다른 대안을 찾아야 해요.,"If the subway is down, you should find another option.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2972,교육,SNS 스타일,단문,선생님이 숙제를 내주셨어요.,The teacher assigned us homework.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7811,직장 관계,뉴스 기사체,원인·결과문,협력이 부족하면 프로젝트 일정이 지연될 수 있다.,A lack of collaboration can lead to project delays.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1083,건강,SNS 스타일,복문,건강한 식습관이 몸과 마음에 긍정적인 영향을 줘.,Healthy eating habits have a positive impact on both body and mind.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2921,교육,문어체(보고서 스타일),복문,교육은 사회 발전의 기초입니다.,Education is the foundation of social progress.,gpt-4o-mini,v2_structured,20251205_160208,valid
+312,여행,감정 표현 스타일,복문,햇살이 비치는 해변에서 느긋하게 쉬고 싶어.,I want to relax leisurely on a sunlit beach.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7520,쇼핑,조언/상담 스타일,원인·결과문,장바구니에 담긴 상품들을 자주 확인해.,Regularly check the items in your shopping cart.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4645,경제/금융,조언/상담 스타일,조건문,"투자를 고려하고 있다면, 반드시 시장 조사를 해야 해요.","If you're thinking about investing, it's essential to conduct market research.",gpt-4o-mini,v2_structured,20251205_160208,valid
+662,일상생활,뉴스 기사체,복문,저녁에는 친구들과 함께 영화를 보러 갈 예정입니다.,I plan to go watch a movie with my friends in the evening.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7058,문화/예술,고객센터 안내 스타일,단문,이 작품은 작가의 감정을 담고 있습니다.,This artwork captures the artist's emotions.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1990,기술,문어체(보고서 스타일),비교문,클라우드 컴퓨팅은 데이터 저장 방식의 변화를 가져왔습니다.,Cloud computing has brought about a transformation in data storage methods.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3666,시간관리,감정 표현 스타일,원인·결과문,시간을 잘 관리하면 삶이 더 풍요로워져.,"When you manage your time well, your life becomes richer.",gpt-4o-mini,v2_structured,20251205_160208,valid
+307,여행,감정 표현 스타일,단문,첫 해외 여행이 너무 기대돼.,I'm so excited for my first trip abroad.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2336,기술,고객센터 안내 스타일,복문,문의하신 내용은 최대한 빠르게 답변드리겠습니다.,We will respond to your inquiry as quickly as possible.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4791,스포츠,대화체,원인·결과문,그녀가 결승점에서 점수를 얻었기 때문에 우리는 이겼어.,We won because she scored at the final point.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2357,기술,고객센터 안내 스타일,비교문,고객 피드백은 서비스 개선에 중요한 역할을 합니다.,Customer feedback plays a crucial role in improving our services.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3703,시간관리,조언/상담 스타일,조건문,우선순위를 정하면 중요한 일을 놓치지 않을 거야.,"By setting priorities, you won't miss important tasks.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3805,감정표현,대화체,단문,서운한 마음이 드네.,I feel a bit disappointed.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1928,기술,대화체,조건문,AI를 활용하면 작업 효율이 크게 개선될 거예요.,"If we utilize AI, the efficiency of our tasks will improve significantly.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8858,자기계발,감정 표현 스타일,복문,사람들과의 소통이 나를 성장하게 해.,Communicating with others helps me grow as a person.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3428,시간관리,문어체(보고서 스타일),비교문,적절한 휴식이 집중력을 높입니다.,Taking appropriate breaks enhances concentration.,gpt-4o-mini,v2_structured,20251205_160208,valid
+750,일상생활,기술 설명체,원인·결과문,아침 식사를 거르면 배고픔을 느끼게 된다.,Skipping breakfast will make you feel hungry.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3639,시간관리,감정 표현 스타일,복문,일정이 빡빡할 때는 우선순위를 정하는 것이 도움돼.,"When your schedule is tight, prioritizing tasks can really help.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8213,IT/AI,SNS 스타일,조건문,클라우드 서비스를 쓰면 비용이 절감돼.,Using cloud services can reduce costs.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7939,직장 관계,감정 표현 스타일,명령/요청문,회의에서 더 적극적으로 의견을 내봐.,Try to share your thoughts more actively in the meeting.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1267,건강,감정 표현 스타일,조건문,신선한 채소를 더 많이 먹으면 에너지가 넘칠 거예요.,"If you eat more fresh vegetables, you'll feel more energetic.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7984,직장 관계,조언/상담 스타일,비교문,문제를 해결하기 위해서는 팀의 의견을 존중해야 해.,"To solve problems, it's important to respect the team's opinions.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1561,식당,SNS 스타일,조건문,샐러드를 추가하면 건강에 좋을 거야.,Adding a salad will be good for your health.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2957,교육,문어체(보고서 스타일),원인·결과문,부모의 지지가 크면 학생의 학업 성취도에 긍정적인 영향을 미친다.,Parental support greatly positively influences students' academic performance.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3596,시간관리,기술 설명체,비교문,시간을 잘 관리하는 것은 성공의 핵심이다.,Effective time management is the key to success.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2135,기술,뉴스 기사체,명령/요청문,가상 현실이 교육 분야에 접목되고 있다.,Virtual reality is being integrated into the education sector.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7180,쇼핑,문어체(보고서 스타일),단문,모든 제품은 무료 배송이 가능합니다.,All products are eligible for free shipping.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7158,쇼핑,대화체,원인·결과문,세일이 끝나기 전에 꼭 필요한 물건을 사야 해.,You should buy the essentials before the sale ends.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7122,쇼핑,대화체,단문,이거는 세일 중이에요?,Is this on sale?,gpt-4o-mini,v2_structured,20251205_160208,valid
+5067,스포츠,감정 표현 스타일,조건문,"만약 내가 테니스를 배우면, 매주 연습할 거야.","If I learn tennis, I'll practice every week.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4110,감정표현,감정 표현 스타일,조건문,혼자라면 함께 있어줄게.,"If you're feeling lonely, I'll be there for you.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4970,스포츠,뉴스 기사체,원인·결과문,훈련 시간을 늘리기로 결정했기에 팀의 기술이 향상되었다.,The decision to increase training hours led to an improvement in the team's skills.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7868,직장 관계,기술 설명체,비교문,서로의 성격을 이해하면 협업이 수월해진다.,Understanding each other's personalities makes collaboration easier.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4905,스포츠,SNS 스타일,원인·결과문,팬들이 응원하면 선수들이 힘을 내.,"When fans cheer, players get motivated.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7295,쇼핑,뉴스 기사체,단문,할인 쿠폰을 꼭 챙기세요.,Make sure to grab the discount coupon.,gpt-4o-mini,v2_structured,20251205_160208,valid
+515,일상생활,대화체,원인·결과문,오늘 날씨가 좋아서 산책을 나갔어.,I went for a walk because the weather is nice today.,gpt-4o-mini,v2_structured,20251205_160208,valid
+895,일상생활,고객센터 안내 스타일,복문,"고객님, 문의 주셔서 감사합니다.","Thank you for reaching out to us, dear customer.",gpt-4o-mini,v2_structured,20251205_160208,valid
+410,여행,조언/상담 스타일,명령/요청문,현지 음식은 꼭 맛봐야 해.,You should definitely try the local food.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8621,자기계발,문어체(보고서 스타일),복문,시간 관리 능력을 키우는 것은 필수적입니다.,Developing time management skills is essential.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9474,사회/뉴스,고객센터 안내 스타일,원인·결과문,최근에 물가 상승이 심해졌어요.,"Recently, there has been a significant rise in prices.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3462,시간관리,SNS 스타일,복문,시간을 잘 관리하면 더 많은 여유를 가질 수 있어.,"If you manage your time well, you can enjoy more leisure.",gpt-4o-mini,v2_structured,20251205_160208,valid
+900,일상생활,고객센터 안내 스타일,복문,저희 서비스에 대한 피드백을 주시면 감사하겠습니다.,We would appreciate any feedback you may have about our services.,gpt-4o-mini,v2_structured,20251205_160208,valid
+208,여행,뉴스 기사체,비교문,유럽 여행은 아시아 여행보다 더 많은 문화유산을 경험할 수 있다.,Traveling in Europe allows for experiencing more cultural heritage than traveling in Asia.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5204,스포츠,고객센터 안내 스타일,원인·결과문,좋은 식습관은 운동 효과를 배가시킵니다.,A healthy diet enhances the benefits of exercise.,gpt-4o-mini,v2_structured,20251205_160208,valid
+459,여행,고객센터 안내 스타일,원인·결과문,비행기를 놓치면 다음 일정에 차질이 생겨요.,Missing a flight can disrupt your subsequent plans.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2055,기술,SNS 스타일,비교문,3D 프린터는 기존의 제조 방식보다 혁신적이야.,3D printers are more innovative than traditional manufacturing methods.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2431,업무,대화체,명령/요청문,그 프로젝트는 언제 시작하나요?,When is that project going to start?,gpt-4o-mini,v2_structured,20251205_160208,valid
+251,여행,기술 설명체,복문,예산을 잘 관리해야 원하는 곳에 갈 수 있어.,You need to manage your budget wisely to be able to go to your desired destinations.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8725,자기계발,뉴스 기사체,단문,목표를 설정하는 것이 중요해요.,It's important to set goals.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5438,기후/날씨,뉴스 기사체,원인·결과문,비가 많이 내려서 강물이 범람하고 있습니다.,Heavy rainfall has led to flooding in the rivers.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1108,건강,SNS 스타일,원인·결과문,잠을 잘 자면 집중력이 향상돼.,Getting enough sleep boosts your concentration.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3390,시간관리,문어체(보고서 스타일),단문,우선순위를 정하는 것이 중요합니다.,It is important to establish priorities.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5980,교통,기술 설명체,원인·결과문,주차 공간이 부족하면 차량 이동이 불편해진다.,"When parking spaces are scarce, vehicle movement becomes inconvenient.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1714,식당,기술 설명체,명령/요청문,예약을 하고 싶습니다.,I would like to make a reservation.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3912,감정표현,SNS 스타일,단문,기분이 너무 좋아!,I'm feeling so good!,gpt-4o-mini,v2_structured,20251205_160208,valid
+5384,기후/날씨,SNS 스타일,원인·결과문,대기 오염 때문에 숨쉬기가 힘들어.,It's hard to breathe due to air pollution.,gpt-4o-mini,v2_structured,20251205_160208,valid
+716,일상생활,기술 설명체,단문,"잠자기 전, 항상 음악을 듣는다.",I always listen to music before going to bed.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7538,쇼핑,고객센터 안내 스타일,단문,문제가 생기면 어떻게 해야 하나요?,What should I do if there is an issue?,gpt-4o-mini,v2_structured,20251205_160208,valid
+553,일상생활,문어체(보고서 스타일),복문,친구가 보내준 책을 읽는 것이 기다려집니다.,I look forward to reading the book my friend sent me.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1440,식당,대화체,복문,늦은 저녁에는 어떤 음료가 잘 어울릴까?,Which drink pairs well with a late dinner?,gpt-4o-mini,v2_structured,20251205_160208,valid
+2271,기술,조언/상담 스타일,복문,인터넷 안전을 위해서는 강력한 비밀번호를 만들어야 해.,"To ensure internet safety, you should create a strong password.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9347,사회/뉴스,감정 표현 스타일,비교문,자연을 보호하는 것이 인간에게 더 큰 이익이 된다.,Protecting nature ultimately benefits humanity more in the long run.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3145,교육,기술 설명체,명령/요청문,온라인 학습의 장점은 접근성이 높다는 것이다.,The advantage of online learning is its high accessibility.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6918,문화/예술,기술 설명체,원인·결과문,영화는 사회적 문제를 조명하는 강력한 매체이다.,Film is a powerful medium that highlights social issues.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2057,기술,SNS 스타일,비교문,소셜 미디어는 친구와 소통하는 데 필수적이야.,Social media is essential for communicating with friends.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1926,기술,대화체,조건문,기술이 발전함에 따라 새로운 일자리가 생길 거야.,"If technology evolves, new job opportunities will emerge.",gpt-4o-mini,v2_structured,20251205_160208,valid
+635,일상생활,SNS 스타일,원인·결과문,점심에 맛있는 음식을 먹어서 힘이 났어.,"I had a delicious lunch, which gave me a boost of energy.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6083,교통,조언/상담 스타일,비교문,지하철은 차보다 교통체증이 덜해.,The subway experiences less traffic congestion compared to cars.,gpt-4o-mini,v2_structured,20251205_160208,valid
+317,여행,감정 표현 스타일,복문,어딜 가든지 기분이 좋아져.,I feel happier no matter where I go.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8798,자기계발,기술 설명체,복문,멘토의 조언을 듣는 것은 큰 도움이 될 수 있다.,Listening to a mentor's advice can be greatly beneficial.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9189,사회/뉴스,SNS 스타일,명령/요청문,정치 뉴스는 항상 흥미로워.,Political news is always interesting.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5425,기후/날씨,뉴스 기사체,비교문,"서울의 여름은 무덥지만, 북극의 여름은 상대적으로 시원합니다.","Summer in Seoul is scorching, while summer in the Arctic is relatively cool.",gpt-4o-mini,v2_structured,20251205_160208,valid
+428,여행,고객센터 안내 스타일,복문,여행 예약을 변경하고 싶으신가요?,Would you like to change your travel reservation?,gpt-4o-mini,v2_structured,20251205_160208,valid
+8096,IT/AI,대화체,조건문,"인공지능의 발전이 계속된다면, 미래에 많은 변화가 올 거야.","If the development of artificial intelligence continues, there will be many changes in the future.",gpt-4o-mini,v2_structured,20251205_160208,valid
+106,여행,문어체(보고서 스타일),원인·결과문,여행 중 다양한 사람을 만나면 인맥이 넓어진다.,Meeting various people during travel broadens your network.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3042,교육,뉴스 기사체,복문,학교는 학생들이 다양한 경험을 쌓을 수 있는 장소이다.,Schools are places where students can gain diverse experiences.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4239,감정표현,고객센터 안내 스타일,비교문,친절은 무관심보다 더 많은 사람을 끌어들여.,Kindness attracts more people than indifference.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2170,기술,기술 설명체,비교문,전통적인 컴퓨터는 고정된 구조를 가지고 있어.,Traditional computers have a fixed structure.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1710,식당,기술 설명체,명령/요청문,추천 요리를 알려줘.,Let me know your recommended dishes.,gpt-4o-mini,v2_structured,20251205_160208,valid
+90,여행,문어체(보고서 스타일),비교문,여행 계획은 철저해야 한다.,Travel plans should be meticulously prepared.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7015,문화/예술,조언/상담 스타일,조건문,문화 체험을 원한다면 지역 축제에 참여해 보는 게 어때요?,"If you want to experience the culture, why not participate in local festivals?",gpt-4o-mini,v2_structured,20251205_160208,valid
+7334,쇼핑,뉴스 기사체,원인·결과문,온라인 쇼핑은 시간이 절약된다.,Shopping online saves a significant amount of time.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2242,기술,감정 표현 스타일,원인·결과문,클라우드 기술이 발달하면서 데이터 저장이 더 안전해졌어.,"As cloud technology develops, data storage has become more secure.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3175,교육,감정 표현 스타일,조건문,"재미있는 방법으로 공부한다면, 동기부여가 더 될 거야.","If you study in a fun way, you'll feel more motivated.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8141,IT/AI,문어체(보고서 스타일),복문,AI 모델의 정확도를 높이기 위해서는 대량의 데이터가 필요합니다.,"To improve the accuracy of AI models, a large volume of data is essential.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7834,직장 관계,기술 설명체,단문,의사소통은 모든 직장의 핵심입니다.,Communication is essential in every workplace.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6260,고객센터,문어체(보고서 스타일),비교문,문서화된 FAQ는 반복되는 질문을 줄입니다.,Well-documented FAQs help reduce repetitive inquiries.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6733,문화/예술,문어체(보고서 스타일),비교문,한국의 현대 미술은 전통과 현대의 경계를 허물고 있다.,Contemporary Korean art is breaking down the boundaries between tradition and modernity.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1950,기술,대화체,명령/요청문,스마트폰은 우리의 삶을 바꿨어.,Smartphones have changed our lives.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4045,감정표현,기술 설명체,복문,그의 성공이 부럽기도 해.,I sometimes feel envious of his success.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9348,사회/뉴스,감정 표현 스타일,비교문,뉴스는 진실을 전하는 것이 아니라 관심을 끌기 위해 편집된다.,News is often edited not to convey the truth but to grab attention.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2849,업무,고객센터 안내 스타일,명령/요청문,전화 상담이 필요하시면 이 번호로 연락해 주세요.,"If you need phone support, please contact us at this number.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6369,고객센터,뉴스 기사체,조건문,서비스에 대한 피드백을 주시면 감사하겠습니다.,We would appreciate it if you could provide feedback on our services.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2,여행,대화체,단문,이번 여름에 바다로 가고 싶어.,I want to go to the beach this summer.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6140,교통,고객센터 안내 스타일,비교문,지하철은 빠르지만 버스는 더 많은 경로를 제공합니다.,"While the subway is faster, buses offer more routes.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4338,경제/금융,문어체(보고서 스타일),복문,환율 변동은 수출입에 큰 영향을 미칠 수 있습니다.,Fluctuations in exchange rates can significantly impact exports and imports.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6048,교통,감정 표현 스타일,명령/요청문,주차 공간이 있을까?,Do you think there will be parking available?,gpt-4o-mini,v2_structured,20251205_160208,valid
+936,일상생활,고객센터 안내 스타일,명령/요청문,배송이 지연되고 있습니다. 확인 부탁드립니다.,The delivery is delayed. Please check on it.,gpt-4o-mini,v2_structured,20251205_160208,valid
+714,일상생활,기술 설명체,단문,책을 읽으면서 휴식을 취했다.,I relaxed by reading a book.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2721,업무,감정 표현 스타일,원인·결과문,비효율적인 회의는 시간을 낭비하게 해.,Inefficient meetings waste valuable time.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8266,IT/AI,뉴스 기사체,복문,데이터의 양이 폭발적으로 증가하고 있다.,The amount of data is increasing explosively in recent times.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9448,사회/뉴스,고객센터 안내 스타일,복문,불편사항은 고객센터를 통해 접수해 주세요.,Please report any inconveniences through our customer center.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5206,스포츠,고객센터 안내 스타일,원인·결과문,운동을 통해 체중을 관리할 수 있어요.,You can manage your weight through regular exercise.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8265,IT/AI,뉴스 기사체,복문,사이버 보안은 점점 더 중요해지고 있다.,Cybersecurity is becoming increasingly important in today's digital landscape.,gpt-4o-mini,v2_structured,20251205_160208,valid
+592,일상생활,문어체(보고서 스타일),명령/요청문,너의 하루는 어땠어?,How was your day?,gpt-4o-mini,v2_structured,20251205_160208,valid
+7631,직장 관계,대화체,원인·결과문,일이 많아서 스트레스를 받아요.,I’m feeling stressed because I have a lot of work.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9316,사회/뉴스,감정 표현 스타일,단문,사람들이 안전하게 지내길 바래.,I hope everyone stays safe.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8181,IT/AI,문어체(보고서 스타일),명령/요청문,데이터 분석이 비즈니스에 미치는 영향은 큽니다.,The impact of data analysis on businesses is significant.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2937,교육,문어체(보고서 스타일),조건문,"비판적 사고 능력이 향상된다면, 문제 해결에 더 효과적일 수 있다.","If critical thinking skills improve, one can be more effective in problem-solving.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8986,자기계발,고객센터 안내 스타일,조건문,"지식을 쌓고 싶다면, 새로운 것을 배우는 것을 두려워하지 마세요.","If you want to gain knowledge, don't be afraid to learn new things.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2449,업무,문어체(보고서 스타일),복문,회의는 다음 주 월요일 오전 10시에 시작됩니다.,The meeting will commence at 10 AM next Monday.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1577,식당,SNS 스타일,비교문,이 레스토랑은 저녁시간에 더 복잡해.,This restaurant gets busier during dinner time than others.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8511,IT/AI,고객센터 안내 스타일,조건문,원하시는 기능이 없다면 피드백을 남겨 주세요.,"If the feature you want is not available, please leave us feedback.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3763,시간관리,고객센터 안내 스타일,조건문,정해진 시간에 일을 마친다면 여유가 생길 거예요.,"If you finish your work on time, you'll have more free time.",gpt-4o-mini,v2_structured,20251205_160208,valid
+214,여행,뉴스 기사체,비교문,북유럽의 자연은 동남아시아의 자연과는 다른 매력이 있다.,The nature of Northern Europe has a different charm compared to that of Southeast Asia.,gpt-4o-mini,v2_structured,20251205_160208,valid
+779,일상생활,감정 표현 스타일,복문,주말에는 친구들과 함께 산에 가고 싶어.,"On the weekend, I want to go hiking with my friends.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5512,기후/날씨,기술 설명체,명령/요청문,비가 많이 올 것으로 예상되니 우산을 가져가세요.,"Expect heavy rain, so take an umbrella with you.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3497,시간관리,SNS 스타일,명령/요청문,시간을 잘 관리해보세요.,Try to manage your time well.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8365,IT/AI,기술 설명체,명령/요청문,사이버 보안에 대한 인식을 높여야 합니다.,Awareness of cybersecurity must be increased.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2044,기술,SNS 스타일,조건문,"만약 네가 스마트폰을 잘 다루면, 정보를 쉽게 찾을 수 있어요.","If you handle smartphones well, you'll easily find information.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9244,사회/뉴스,뉴스 기사체,원인·결과문,"최근 연구 결과, 청소년 범죄율이 증가하는 추세를 보이고 있습니다.",Recent research shows a rising trend in juvenile crime rates.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9024,사회/뉴스,대화체,단문,청년들이 사회에 더 많이 참여해야 해요.,Young people should engage more in society.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5421,기후/날씨,뉴스 기사체,조건문,"날씨가 따뜻해지면, 꽃이 일찍 필 것이다.","If the weather warms up, flowers will bloom earlier.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6155,교통,고객센터 안내 스타일,원인·결과문,교통 신호를 무시하면 사고의 위험이 높아집니다.,Ignoring traffic signals increases the risk of accidents.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1568,식당,SNS 스타일,조건문,추천 메뉴가 있으면 알려줘!,"If you have a recommended dish, let me know!",gpt-4o-mini,v2_structured,20251205_160208,valid
+166,여행,SNS 스타일,원인·결과문,"이곳의 문화가 매력적이야, 그래서 많은 새로운 경험을 할 수 있었어.","The culture here is fascinating, allowing me to have many new experiences.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4703,경제/금융,고객센터 안내 스타일,조건문,예금이자율이 높으면 더 많은 고객이 오실 거예요.,"If the interest rates on deposits are high, more customers will come.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3567,시간관리,기술 설명체,단문,계획을 세우면 목표 달성이 쉬워져.,Creating a plan makes it easier to achieve goals.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8263,IT/AI,뉴스 기사체,복문,AI 기술은 의료 분야에서도 혁신을 가져오고 있다.,AI technology is bringing innovations to the healthcare sector as well.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9249,사회/뉴스,뉴스 기사체,명령/요청문,"지난 밤, 서울에서 대규모 시위가 발생했다.",A large-scale protest occurred in Seoul last night.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5440,기후/날씨,뉴스 기사체,원인·결과문,눈이 많이 내리면 교통 체증이 발생할 수 있습니다.,Heavy snowfall can lead to traffic congestion.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2014,기술,문어체(보고서 스타일),명령/요청문,블록체인 기술이 금융 분야를 변화시키고 있습니다.,Blockchain technology is transforming the finance sector.,gpt-4o-mini,v2_structured,20251205_160208,valid
+274,여행,기술 설명체,비교문,해외 여행은 국내 여행보다 새로운 문화를 접할 기회를 더 많이 준다.,International travel provides more opportunities to experience new cultures than domestic travel.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3861,감정표현,문어체(보고서 스타일),단문,불안한 기분이 드네요.,I feel anxious.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4168,감정표현,조언/상담 스타일,조건문,슬픈 기분이 드는 건 자연스러운 일이야.,It's completely normal to feel sad sometimes.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8442,IT/AI,조언/상담 스타일,복문,기술의 발전은 우리 삶을 편리하게 만들어 줄 거야.,Advancements in technology are expected to make our lives more convenient.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3789,시간관리,고객센터 안내 스타일,명령/요청문,시간을 효율적으로 관리하세요.,Please manage your time efficiently.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5184,스포츠,고객센터 안내 스타일,조건문,"선수들이 훈련에 최선을 다하면, 성과가 있을 것입니다.","If the athletes give their best during training, results will follow.",gpt-4o-mini,v2_structured,20251205_160208,valid
+395,여행,조언/상담 스타일,비교문,조용한 시골 마을은 분주한 도시와 다른 매력이 있어.,A quiet rural village has a charm different from that of a bustling city.,gpt-4o-mini,v2_structured,20251205_160208,valid
+584,일상생활,문어체(보고서 스타일),명령/요청문,오늘 저녁 뭐 먹을까?,What should we have for dinner tonight?,gpt-4o-mini,v2_structured,20251205_160208,valid
+9409,사회/뉴스,조언/상담 스타일,비교문,"위기 상황에서는 신속한 대응이 필요하지만, 신뢰할 수 있는 정보도 중요해.","In a crisis, swift action is necessary, but reliable information is equally important.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9480,사회/뉴스,고객센터 안내 스타일,원인·결과문,많은 사람들이 불안감을 느끼고 있습니다.,Many people are feeling anxious about their job security.,gpt-4o-mini,v2_structured,20251205_160208,valid
+117,여행,문어체(보고서 스타일),명령/요청문,안전 규칙을 준수해야 합니다.,You must adhere to safety regulations.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6645,문화/예술,대화체,복문,미술관에서 다양한 작품을 감상하면서 많은 영감을 받았어.,I gained a lot of inspiration while appreciating various works at the art museum.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8570,자기계발,대화체,조건문,"잘못된 길을 가더라도, 다시 시작할 수 있어.","Even if you take the wrong path, you can always start over.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6870,문화/예술,뉴스 기사체,명령/요청문,명화 전시회에 꼭 가보세요.,Make sure to visit the exhibition of masterpieces.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7999,직장 관계,조언/상담 스타일,명령/요청문,직장 동료와 소통해 보세요.,Try to communicate with your colleagues.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9446,사회/뉴스,고객센터 안내 스타일,복문,고객님께서 만족하실 수 있도록 최선을 다하겠습니다.,We will do our best to ensure your satisfaction.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9429,사회/뉴스,조언/상담 스타일,명령/요청문,사회적 이슈에 대한 토론회를 열어보세요.,Consider hosting a discussion on social issues.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8502,IT/AI,고객센터 안내 스타일,복문,신속한 답변을 위해 문의 시간을 알려주시면 좋습니다.,It would be helpful if you could let us know the time of your inquiry for a prompt response.,gpt-4o-mini,v2_structured,20251205_160208,valid
+521,일상생활,대화체,원인·결과문,새로운 책을 읽어보니까 흥미로웠어.,It was interesting to read a new book.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1764,식당,감정 표현 스타일,원인·결과문,주말마다 가면 특별한 혜택이 생겨.,Going there every weekend earns you special benefits.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1876,식당,고객센터 안내 스타일,비교문,테라스 좌석은 내부 좌석보다 쾌적해요.,The terrace seating is more comfortable than the indoor seating.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5356,기후/날씨,SNS 스타일,조건문,비가 오면 우산을 챙겨야 해.,"If it rains, you should bring an umbrella.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3966,감정표현,SNS 스타일,명령/요청문,"힘든 하루였어, 나 좀 안아줘.","It was a tough day, could you give me a hug?",gpt-4o-mini,v2_structured,20251205_160208,valid
+3345,시간관리,대화체,복문,미리 계획을 세우는 것이 중요하다고 생각해.,I believe that making plans in advance is crucial.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6599,고객센터,고객센터 안내 스타일,조건문,비밀번호를 잊으셨다면 재설정할 수 있습니다.,"If you have forgotten your password, you can reset it.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2254,기술,감정 표현 스타일,명령/요청문,이 문제를 해결할 수 있을까?,Can we solve this issue?,gpt-4o-mini,v2_structured,20251205_160208,valid
+6878,문화/예술,기술 설명체,단문,전통 춤은 각 지역의 특색을 잘 드러내죠.,Traditional dance vividly showcases the unique characteristics of each region.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3225,교육,조언/상담 스타일,복문,교사와 상담하여 진로를 고민해보세요.,Consulting with your teacher can help you think about your career path.,gpt-4o-mini,v2_structured,20251205_160208,valid
+527,일상생활,대화체,명령/요청문,내일 날씨가 어떤지 확인해 줘.,Please check what the weather will be like tomorrow.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7726,직장 관계,SNS 스타일,복문,팀워크가 성공의 열쇠라고 생각해요.,I believe teamwork is the key to success.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8150,IT/AI,문어체(보고서 스타일),조건문,클라우드 컴퓨팅을 활용하면 데이터 관리가 쉬워진다.,Utilizing cloud computing makes data management easier.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2947,교육,문어체(보고서 스타일),비교문,자기 주도 학습은 학생의 자율성을 길러준다.,Self-directed learning fosters autonomy in students.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4474,경제/금융,뉴스 기사체,비교문,경제 성장률은 작년보다 감소했다.,The economic growth rate has declined compared to last year.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3900,감정표현,문어체(보고서 스타일),원인·결과문,"상실의 아픔이 가시지 않아, 힘든 날들이 계속된다.","The pain of loss lingers, leading to difficult days.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5656,기후/날씨,고객센터 안내 스타일,조건문,날씨가 추우면 따뜻하게 입으세요.,"When the weather is cold, please dress warmly.",gpt-4o-mini,v2_structured,20251205_160208,valid
+693,일상생활,뉴스 기사체,원인·결과문,기온이 상승하면서 아이스커피 판매가 늘어났어요.,Sales of iced coffee increased as temperatures rose.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6060,교통,조언/상담 스타일,복문,교통 혼잡을 피하려면 대중교통을 이용해보세요.,"To avoid traffic congestion, consider using public transportation.",gpt-4o-mini,v2_structured,20251205_160208,valid
+960,건강,대화체,복문,스트레칭을 통해 유연성을 기를 수 있어.,Stretching can help improve your flexibility.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4445,경제/금융,뉴스 기사체,단문,금리는 올해 들어 두 차례 인상됐다.,Interest rates have been raised twice so far this year.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8949,자기계발,조언/상담 스타일,명령/요청문,꾸준함이 성공의 열쇠야.,Consistency is the key to success.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6343,고객센터,뉴스 기사체,단문,"고객님, 무엇을 도와드릴까요?",How can I assist you today?,gpt-4o-mini,v2_structured,20251205_160208,valid
+6132,교통,고객센터 안내 스타일,조건문,버스를 놓치면 다음 버스를 기다려야 해요.,"If you miss the bus, you'll have to wait for the next one.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3634,시간관리,감정 표현 스타일,복문,시간을 잘 관리하지 않으면 결국 후회하게 될 거야.,"If you don't manage your time well, you'll end up regretting it.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5806,교통,문어체(보고서 스타일),명령/요청문,자전거 도로에서 안전하게 주행해야 합니다.,You must ride safely on bicycle lanes.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1051,건강,문어체(보고서 스타일),원인·결과문,정기적인 건강 검진은 조기 발견에 도움이 됩니다.,Regular health check-ups aid in early detection.,gpt-4o-mini,v2_structured,20251205_160208,valid
+591,일상생활,문어체(보고서 스타일),명령/요청문,내일 아침에 만납시다.,Let's meet tomorrow morning.,gpt-4o-mini,v2_structured,20251205_160208,valid
+520,일상생활,대화체,원인·결과문,시간이 없어서 빨리 서둘러야 해.,I need to hurry because I'm short on time.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3381,시간관리,대화체,명령/요청문,쉬는 시간을 충분히 가져야 해요.,Make sure to take enough breaks.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3677,시간관리,감정 표현 스타일,명령/요청문,시간을 낭비하지 마.,Don't waste your time.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5777,교통,문어체(보고서 스타일),조건문,신호등이 빨간색일 때는 반드시 정지해야 합니다.,"When the traffic light is red, you must stop.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8845,자기계발,감정 표현 스타일,단문,오늘은 내 자신에게 상을 줄 거야.,"Today, I will treat myself to a reward.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6574,고객센터,조언/상담 스타일,명령/요청문,추가 비용이 발생할까요?,Will there be any additional charges?,gpt-4o-mini,v2_structured,20251205_160208,valid
+5180,스포츠,고객센터 안내 스타일,조건문,"만약 팀이 우승하면, 특별 이벤트를 개최할 것입니다.","If the team wins, we will hold a special event.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1608,식당,뉴스 기사체,단문,식사 후 디저트를 꼭 드셔보세요.,Be sure to try the dessert after your meal.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3611,시간관리,기술 설명체,원인·결과문,데드라인을 설정하면 집중력이 높아진다.,Setting deadlines increases focus.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9264,사회/뉴스,기술 설명체,단문,이 법안은 내년부터 시행될 예정이다.,This bill is set to be implemented next year.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6636,문화/예술,대화체,단문,그 영화는 정말 감동적이었어.,That movie was truly touching.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9491,사회/뉴스,고객센터 안내 스타일,명령/요청문,FAQ 섹션을 확인해 보세요.,Please check the FAQ section.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1810,식당,조언/상담 스타일,비교문,저 식당은 서비스가 훨씬 더 친절해요.,That restaurant offers much friendlier service.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7692,직장 관계,문어체(보고서 스타일),원인·결과문,의사소통 부족은 오해를 불러일으킨다.,A lack of communication leads to misunderstandings.,gpt-4o-mini,v2_structured,20251205_160208,valid
+792,일상생활,감정 표현 스타일,조건문,따뜻한 차를 마시면 기분이 좋아질 거야.,"If I drink warm tea, I will feel better.",gpt-4o-mini,v2_structured,20251205_160208,valid
+793,일상생활,감정 표현 스타일,조건문,이 책을 읽으면 많은 것을 배울 수 있어.,You can learn a lot if you read this book.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3057,교육,뉴스 기사체,조건문,"학교 행사에 참여하면, 친구를 더 많이 사귈 수 있다.","If you participate in school events, you can make more friends.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1856,식당,고객센터 안내 스타일,복문,저희는 다양한 채식 요리도 제공하니 참고하시기 바랍니다.,"We offer a variety of vegetarian dishes, so please keep that in mind.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8993,자기계발,고객센터 안내 스타일,비교문,멘토를 찾는 것이 큰 도움이 된다.,Finding a mentor can greatly assist your growth.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1981,기술,문어체(보고서 스타일),조건문,AI가 도입된다면 많은 업무가 자동화될 것이다.,"If AI is implemented, many tasks will be automated.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3234,교육,조언/상담 스타일,조건문,목표를 세우면 동기부여가 될 거야.,"If you set goals for yourself, it can boost your motivation.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3599,시간관리,기술 설명체,비교문,우선순위를 정하는 것이 시간을 절약하는 방법이다.,Setting priorities is a way to save time.,gpt-4o-mini,v2_structured,20251205_160208,valid
+934,일상생활,고객센터 안내 스타일,원인·결과문,집안일을 하느라 시간이 없어요.,I have no time because I'm busy with housework.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3964,감정표현,SNS 스타일,명령/요청문,"오늘 기분이 별로야, 나랑 이야기 좀 해.","I'm not feeling too well today, can we chat for a bit?",gpt-4o-mini,v2_structured,20251205_160208,valid
+8110,IT/AI,대화체,원인·결과문,데이터 분석이 중요해진 이유는 정확한 의사결정을 돕기 때문이야.,The reason data analysis has become important is that it helps make accurate decisions.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7425,쇼핑,감정 표현 스타일,복문,쇼핑할 때마다 행복한 기분이 들어.,"Every time I go shopping, I feel so happy.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5627,기후/날씨,조언/상담 스타일,명령/요청문,여름철에는 충분한 수분을 섭취하는 게 중요해.,"During summer, it's essential to stay hydrated.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5507,기후/날씨,기술 설명체,명령/요청문,기온이 급격히 떨어질 예정이니 따뜻한 옷을 챙기세요.,Prepare warm clothing as temperatures are expected to drop sharply.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7621,직장 관계,대화체,비교문,직장 동료와의 관계는 친구와의 관계보다 복잡해.,The relationship with a coworker is more complicated than that with a friend.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6073,교통,조언/상담 스타일,조건문,자전거를 탈 수 있다면 환경을 위해 좋은 선택이야.,"If you can ride a bike, it's a great choice for the environment.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1683,식당,기술 설명체,조건문,메뉴에 알레르기 정보가 없으면 물어봐야 해.,"If there is no allergy information on the menu, you should ask.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9055,사회/뉴스,대화체,비교문,정치적 이슈는 항상 뜨거운 감자야.,Political issues are always hot topics.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4180,감정표현,조언/상담 스타일,비교문,불안할 땐 그 감정을 인정하는 것이 첫걸음이야.,Acknowledging your anxiety is the first step to dealing with it.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4027,감정표현,뉴스 기사체,명령/요청문,사랑의 표현은 상처를 치유한다.,Expressions of love heal wounds.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8910,자기계발,조언/상담 스타일,복문,매일 조금씩 발전하는 것이 성공의 비결이야.,The secret to success is improving just a little each day.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6447,고객센터,기술 설명체,원인·결과문,고객센터 운영 시간 외에는 응답이 지연될 수 있습니다.,Responses may be delayed outside of customer service operating hours.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4117,감정표현,감정 표현 스타일,비교문,분노는 사랑보다 쉽게 찾아와.,Anger comes more easily than love.,gpt-4o-mini,v2_structured,20251205_160208,valid
+989,건강,대화체,원인·결과문,균형 잡힌 식사를 하면 에너지가 증가해요.,Having a balanced diet increases your energy levels.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7772,직장 관계,뉴스 기사체,단문,직장 내 갈등은 업무 생산성에 큰 영향을 미칩니다.,Conflicts in the workplace can significantly affect productivity.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8295,IT/AI,뉴스 기사체,원인·결과문,모바일 앱의 사용 증가로 소비자 접근성이 향상되고 있다.,The rise in mobile app usage is improving consumer accessibility.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8723,자기계발,뉴스 기사체,단문,자기계발은 성공의 열쇠입니다.,Self-development is the key to success.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3454,시간관리,SNS 스타일,단문,매일 목표를 세워봐.,Try setting daily goals.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2897,교육,대화체,원인·결과문,진로를 정하는 데 교육이 중요한 역할을 해요.,Education plays a crucial role in determining one's career path.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3779,시간관리,고객센터 안내 스타일,원인·결과문,시간을 잘 관리하면 스트레스를 줄일 수 있어요.,"If you manage your time well, you can reduce stress.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5659,기후/날씨,고객센터 안내 스타일,조건문,바람이 세게 불면 외출을 자제하는 게 좋습니다.,"If it’s very windy, it’s advisable to stay indoors.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8700,자기계발,SNS 스타일,비교문,비교하지 않는 삶이 더 행복할 수 있어.,Living without comparison can lead to greater happiness.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3094,교육,기술 설명체,단문,교사들은 학생들에게 동기를 부여해야 한다.,Teachers need to motivate their students.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3156,교육,감정 표현 스타일,단문,학생의 태도가 중요해요.,A student's attitude is important.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5070,스포츠,감정 표현 스타일,비교문,축구는 농구보다 더 많은 팬을 가지고 있어.,Soccer has a larger fan base than basketball.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5807,교통,문어체(보고서 스타일),명령/요청문,출근 시간에는 교통이 매우 혼잡합니다.,Traffic is extremely congested during rush hour.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3202,교육,감정 표현 스타일,명령/요청문,이번 학기 성적이 너무 걱정돼요.,I'm really worried about my grades this semester.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1824,식당,조언/상담 스타일,원인·결과문,음식을 천천히 씹으면 소화에 도움이 돼요.,Chewing your food slowly aids in digestion.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9136,사회/뉴스,문어체(보고서 스타일),명령/요청문,보건 정책의 개선이 시급하다.,Improving health policies is urgent.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1099,건강,SNS 스타일,비교문,비타민 D는 햇볕을 통해 자연스럽게 얻을 수 있어.,You can naturally get vitamin D from sunlight.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8613,자기계발,문어체(보고서 스타일),단문,꾸준함이 성공의 열쇠입니다.,Consistency is the key to success.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2845,업무,고객센터 안내 스타일,명령/요청문,고객센터 운영 시간은 오전 9시부터 오후 6시까지입니다.,Our customer service operates from 9 AM to 6 PM.,gpt-4o-mini,v2_structured,20251205_160208,valid
+887,일상생활,고객센터 안내 스타일,단문,고객센터 운영 시간은 언제인가요?,What are the operating hours of customer service?,gpt-4o-mini,v2_structured,20251205_160208,valid
+3343,시간관리,대화체,복문,할 일을 목록으로 만들어 보는 게 좋을 것 같아.,I think it would be helpful to create a list of tasks.,gpt-4o-mini,v2_structured,20251205_160208,valid
+39,여행,대화체,비교문,여행 비용은 항상 예산을 고려해야 해.,You always have to consider your budget when traveling.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7657,직장 관계,문어체(보고서 스타일),단문,투명한 의사소통이 필요해요.,Transparent communication is necessary.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6541,고객센터,조언/상담 스타일,조건문,이메일로 문의하시면 더 자세한 답변을 드릴 수 있습니다.,You can receive a more detailed response by contacting us via email.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8875,자기계발,감정 표현 스타일,비교문,실패는 성공의 어머니라고 하지.,They say failure is the mother of success.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6097,교통,조언/상담 스타일,원인·결과문,차량 점검을 안 하면 고장이 날 수 있어요.,"If you don't check your vehicle, it may break down.",gpt-4o-mini,v2_structured,20251205_160208,valid
+516,일상생활,대화체,원인·결과문,너무 피곤해서 일찍 자야겠어.,I'm going to sleep early because I'm really tired.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3357,시간관리,대화체,조건문,계속 미루면 결국 후회할 일이 생길 거야.,"If you keep procrastinating, you will eventually regret it.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4834,스포츠,문어체(보고서 스타일),비교문,수영은 개인 경기와 단체 경기로 나뉜다.,Swimming can be categorized into individual and team events.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1454,식당,대화체,비교문,너는 한국 음식이 더 좋지?,"You like Korean food better, right?",gpt-4o-mini,v2_structured,20251205_160208,valid
+3554,시간관리,뉴스 기사체,원인·결과문,할 일을 정리하면 집중력이 향상된다.,Organizing tasks boosts your concentration.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3610,시간관리,기술 설명체,원인·결과문,시간을 분배하는 능력이 중요하다.,The ability to allocate time is crucial.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9199,사회/뉴스,뉴스 기사체,단문,시민들은 불만을 표출하고 있다.,Citizens are expressing their dissatisfaction.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4666,경제/금융,조언/상담 스타일,원인·결과문,재정 적자가 지속되면 국가 신뢰도가 떨어질 수 있습니다.,"If the fiscal deficit continues, the national credibility may decline.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2507,업무,SNS 스타일,복문,오늘 회의는 정말 유익했어.,Today’s meeting was really beneficial.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2995,교육,SNS 스타일,조건문,"열심히 하면, 원하는 대학에 갈 수 있어요.","If you work hard, you can get into the university you want.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4000,감정표현,뉴스 기사체,비교문,사람들은 슬픔을 다르게 표현한다.,People express sadness in various ways.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6223,고객센터,대화체,명령/요청문,제 문의 사항을 확인해 주세요.,Please check my inquiry.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9223,사회/뉴스,뉴스 기사체,조건문,"이 법안이 통과되면, 시민의 권리가 강화될 것이다.","If this bill passes, citizens' rights will be strengthened.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7814,직장 관계,뉴스 기사체,원인·결과문,팀원 간의 신뢰가 부족하면 생산성이 떨어진다.,A lack of trust among team members results in decreased productivity.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9396,사회/뉴스,조언/상담 스타일,조건문,"스트레스를 받고 있다면, 잠시 쉬는 시간을 가져야 해요.","If you're feeling stressed, you should take a break for a while.",gpt-4o-mini,v2_structured,20251205_160208,valid
+907,일상생활,고객센터 안내 스타일,조건문,회원가입을 원하시면 웹사이트에서 신청할 수 있습니다.,"If you wish to become a member, you can apply on our website.",gpt-4o-mini,v2_structured,20251205_160208,valid
+29,여행,대화체,조건문,해외 여행을 가고 싶다면 여권을 확인해야 해.,You need to check your passport if you want to travel abroad.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9370,사회/뉴스,감정 표현 스타일,명령/요청문,지금 바로 목소리를 내세요.,Speak up right now.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2508,업무,SNS 스타일,복문,일에 쫓겨서 점심도 제대로 못 먹었어.,I was so busy with work that I barely had lunch.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2429,업무,대화체,명령/요청문,이 자료를 검토해 주세요.,Could you review this document?,gpt-4o-mini,v2_structured,20251205_160208,valid
+5044,스포츠,감정 표현 스타일,단문,그 선수는 정말 대단해.,That player is truly amazing.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5347,기후/날씨,SNS 스타일,복문,비가 올 것 같아서 우산 챙겼어.,I packed an umbrella because it looks like it might rain.,gpt-4o-mini,v2_structured,20251205_160208,valid
+763,일상생활,기술 설명체,명령/요청문,커피 한 잔 마시고 싶어.,I want to have a cup of coffee.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3748,시간관리,고객센터 안내 스타일,단문,짧은 휴식도 도움이 돼요.,Short breaks can be very helpful.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4812,스포츠,문어체(보고서 스타일),복문,이 팀은 지난 시즌에서 매우 뛰어난 성적을 거두었습니다.,This team achieved remarkable results last season.,gpt-4o-mini,v2_structured,20251205_160208,valid
+285,여행,기술 설명체,원인·결과문,자연을 감상하면 마음이 편안해진다.,Appreciating nature brings peace to the mind.,gpt-4o-mini,v2_structured,20251205_160208,valid
+687,일상생활,뉴스 기사체,비교문,책을 읽는 것은 TV를 보는 것보다 더 유익합니다.,Reading books is more beneficial than watching TV.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4800,스포츠,대화체,명령/요청문,너는 어떤 스포츠를 좋아해?,What sports do you like?,gpt-4o-mini,v2_structured,20251205_160208,valid
+7438,쇼핑,감정 표현 스타일,조건문,세일이 끝나기 전에 알아보는 게 좋을 거야.,It would be wise to check it out before the sale ends.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2354,기술,고객센터 안내 스타일,비교문,이메일 문의는 하루 이내에 답변됩니다.,Email inquiries are typically responded to within a day.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6354,고객센터,뉴스 기사체,복문,서비스 이용 중 문제가 발생하면 즉시 알려주세요.,"If you encounter any issues while using the service, please inform us immediately.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3192,교육,감정 표현 스타일,원인·결과문,교사의 지도가 효과적이어서 학생들이 자신감을 얻었어요.,The effective guidance from the teacher has given the students confidence.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4570,경제/금융,감정 표현 스타일,단문,재정 관리를 잘해야 해요.,We need to manage our finances well.,gpt-4o-mini,v2_structured,20251205_160208,valid
+22,여행,대화체,조건문,기념품을 사지 않으면 후회할지도 몰라.,You might regret not buying souvenirs.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2753,업무,조언/상담 스타일,복문,업무와 사생활의 균형을 유지하는 것이 필요해.,It's essential to maintain a balance between work and personal life.,gpt-4o-mini,v2_structured,20251205_160208,valid
+886,일상생활,고객센터 안내 스타일,단문,계정을 어떻게 만들 수 있나요?,How can I create an account?,gpt-4o-mini,v2_structured,20251205_160208,valid
+8074,IT/AI,대화체,단문,사이버 보안이 점점 중요해지고 있어요.,Cybersecurity is becoming increasingly important.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8842,자기계발,감정 표현 스타일,단문,내일은 더 나은 내가 되기로 결심했어.,I've decided to become a better version of myself starting tomorrow.,gpt-4o-mini,v2_structured,20251205_160208,valid
+918,일상생활,고객센터 안내 스타일,비교문,아침에 일찍 일어나는 것과 늦게 일어나는 것은 각기 장단점이 있다.,Waking up early in the morning and sleeping in both have their own advantages and disadvantages.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8363,IT/AI,기술 설명체,명령/요청문,소프트웨어 개발 프로세스를 자동화해보세요.,Consider automating the software development process.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1041,건강,문어체(보고서 스타일),비교문,과도한 음주는 간 건강에 해롭다.,Excessive drinking is harmful to liver health.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6336,고객센터,SNS 스타일,명령/요청문,환불 절차에 대해 알려줘.,Can you let me know about the refund process?,gpt-4o-mini,v2_structured,20251205_160208,valid
+4827,스포츠,문어체(보고서 스타일),조건문,"내일 경기가 취소된다면, 일정이 변경될 것입니다.","If the match is canceled tomorrow, the schedule will be adjusted.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7492,쇼핑,조언/상담 스타일,조건문,할인이 많이 붙은 제품을 구매하면 좋겠지.,It would be great if you could buy products that are heavily discounted.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1266,건강,감정 표현 스타일,조건문,스트레스를 줄이면 삶의 질이 높아질 거야.,"If you reduce stress, the quality of your life will increase.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4580,경제/금융,감정 표현 스타일,복문,우리의 재정 관리를 철저히 해야 해.,We need to manage our finances meticulously.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8794,자기계발,기술 설명체,복문,목표를 설정하고 그것을 달성하는 방법을 계획해야 해.,You need to set goals and plan how to achieve them.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7060,문화/예술,고객센터 안내 스타일,단문,문화유산 보호는 매우 중요합니다.,Protecting cultural heritage is very important.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9139,사회/뉴스,SNS 스타일,단문,이번 주말에 시위가 예정되어 있어.,A protest is scheduled for this weekend.,gpt-4o-mini,v2_structured,20251205_160208,valid
+278,여행,기술 설명체,원인·결과문,여행을 가면 새로운 문화를 경험할 수 있어요.,"When you travel, you can experience new cultures.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5085,스포츠,감정 표현 스타일,원인·결과문,그녀는 경기에 나가고 싶었지만 부상 때문에 포기했어.,"She wanted to participate in the game, but had to give up due to her injury.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2085,기술,뉴스 기사체,단문,사물인터넷이 우리의 삶을 편리하게 해준다.,The Internet of Things makes our lives more convenient.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1246,건강,감정 표현 스타일,단문,스트레스가 쌓이지 않도록 해.,Make sure to manage your stress.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2383,업무,대화체,단문,이 일은 어떻게 해결할까?,How should we resolve this issue?,gpt-4o-mini,v2_structured,20251205_160208,valid
+572,일상생활,문어체(보고서 스타일),비교문,자연 속에서 시간을 보내는 것은 마음을 편안하게 한다.,Spending time in nature soothes the mind.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1436,식당,대화체,복문,이렇게 바쁜 시간에 테이블을 예약할 수 있을까요?,Can we make a reservation during such a busy time?,gpt-4o-mini,v2_structured,20251205_160208,valid
+3903,감정표현,문어체(보고서 스타일),명령/요청문,나는 오늘 매우 우울해.,I am feeling quite down today.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5090,스포츠,감정 표현 스타일,명령/요청문,이번 경기에서 승리를 기대해요!,I hope we win in this match!,gpt-4o-mini,v2_structured,20251205_160208,valid
+1248,건강,감정 표현 스타일,단문,물을 많이 마시는 게 좋아.,It's good to drink plenty of water.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8178,IT/AI,문어체(보고서 스타일),원인·결과문,인공지능의 발전으로 인해 일자리의 형태가 변화하고 있다.,The advancement of artificial intelligence is changing the nature of jobs.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4682,경제/금융,조언/상담 스타일,명령/요청문,투자의 다양화를 잊지 마세요.,Don't forget the importance of diversifying your investments.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3527,시간관리,뉴스 기사체,조건문,시간 관리를 잘하면 스트레스를 줄일 수 있다.,"If you manage your time well, you can reduce stress.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6558,고객센터,조언/상담 스타일,원인·결과문,상담원이 도와드릴 준비가 되어 있습니다.,Our representatives are ready to assist you.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2515,업무,SNS 스타일,복문,어제 저녁에 중요한 이메일을 보냈어.,I sent an important email last night.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5446,기후/날씨,뉴스 기사체,명령/요청문,내일 비가 올 가능성이 높습니다.,There is a high possibility of rain tomorrow.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1008,건강,문어체(보고서 스타일),단문,규칙적인 수면은 전반적인 건강에 필수적이다.,Regular sleep is essential for overall health.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4771,스포츠,대화체,조건문,팀 스포츠를 하면 협동심이 생길 거야.,"If you play team sports, you'll develop a sense of cooperation.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6509,고객센터,감정 표현 스타일,명령/요청문,환불 요청을 하고 싶어요.,I would like to request a refund.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7000,문화/예술,조언/상담 스타일,단문,무용은 자기 표현의 한 형태야.,Dance is a form of self-expression.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4544,경제/금융,기술 설명체,원인·결과문,"경제 성장률이 감소하면, 실업률이 증가할 수 있다.","When the economic growth rate declines, the unemployment rate may increase.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8202,IT/AI,SNS 스타일,복문,"클라우드 서비스는 정말 편리해, 진짜 최고야.",Cloud services are super convenient; they're just the best.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8367,IT/AI,기술 설명체,명령/요청문,데이터 시각화 도구를 활용해보세요.,Utilize data visualization tools.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9087,사회/뉴스,문어체(보고서 스타일),복문,"최근 여러 연구 결과, 한국의 출산율이 급격히 감소하고 있다.",Recent studies have shown that the birth rate in South Korea is rapidly declining.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4456,경제/금융,뉴스 기사체,복문,정부는 통화 정책을 통해 경기 부양을 꾀하고 있다.,The government is attempting to stimulate the economy through monetary policy.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2065,기술,SNS 스타일,원인·결과문,VR 기술이 성장하고 있어서 가상 현실 체험이 더욱 실감나.,"As VR technology grows, virtual reality experiences become more immersive.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5353,기후/날씨,SNS 스타일,복문,공기가 맑아서 하늘이 너무 예뻐.,The air is so clear that the sky looks absolutely beautiful.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1137,건강,뉴스 기사체,복문,수면 부족은 여러 건강 문제를 유발할 수 있어요.,Lack of sleep can lead to various health issues.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1691,식당,기술 설명체,비교문,"여기 음식은 신선하지만, 서비스가 느려요.","The food here is fresh, whereas the service is slow.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3118,교육,기술 설명체,조건문,학습 스타일에 맞춰 공부하면 효과적이야.,Studying according to your learning style can be effective.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9029,사회/뉴스,대화체,복문,최근 통계에 따르면 실업률이 감소하고 있어.,"According to recent statistics, the unemployment rate is decreasing.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5344,기후/날씨,SNS 스타일,단문,산책하기 딱 좋은 날씨야.,It's the perfect weather for a walk.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1986,기술,문어체(보고서 스타일),조건문,모바일 앱이 개발된다면 사용자 경험이 향상될 것이다.,"If a mobile app is developed, the user experience will be enhanced.",gpt-4o-mini,v2_structured,20251205_160208,valid
+295,여행,기술 설명체,명령/요청문,관광지에서의 일정은 유동적으로 조정하세요.,Be flexible with your itinerary at tourist spots.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1548,식당,SNS 스타일,단문,주말에 여기 다시 올래?,Shall we come back here this weekend?,gpt-4o-mini,v2_structured,20251205_160208,valid
+2013,기술,문어체(보고서 스타일),명령/요청문,5G 네트워크가 상용화되었습니다.,The 5G network has been commercialized.,gpt-4o-mini,v2_structured,20251205_160208,valid
+589,일상생활,문어체(보고서 스타일),명령/요청문,저는 매일 책을 읽습니다.,I read a book every day.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7886,직장 관계,기술 설명체,명령/요청문,내일은 모두 모여서 브레인스토밍 하자.,Let's all gather tomorrow for a brainstorming session.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3330,교육,고객센터 안내 스타일,명령/요청문,필요한 자료를 미리 준비하세요.,Please prepare the necessary materials in advance.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2404,업무,대화체,조건문,내가 이 일을 마치면 너에게 연락할게.,I'll get in touch with you after I finish this task.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2130,기술,뉴스 기사체,명령/요청문,모바일 기기의 사용이 급증하고 있다.,The use of mobile devices is rapidly increasing.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3999,감정표현,뉴스 기사체,조건문,"기쁘다면, 그 기분을 다른 사람과 나누는 것도 좋은 방법입니다.","If you're happy, sharing that feeling with others can also be a great way to celebrate.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3742,시간관리,고객센터 안내 스타일,단문,일정을 미리 계획하세요.,Please plan your schedule in advance.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8751,자기계발,뉴스 기사체,조건문,매일의 작은 성공을 축하하면 자신감을 키울 수 있다.,"If you celebrate small successes every day, you can build your confidence.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2720,업무,감정 표현 스타일,원인·결과문,과제가 많으면 집중력이 떨어져.,"When there are many tasks, concentration decreases.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8729,자기계발,뉴스 기사체,단문,스스로 동기부여를 해야 해요.,You have to motivate yourself.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5151,스포츠,조언/상담 스타일,명령/요청문,축구를 시작하고 싶다면 팀에 가입해.,"If you want to start playing soccer, join a team.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2809,업무,고객센터 안내 스타일,복문,고객센터 운영 시간은 평일 오전 9시부터 오후 6시까지입니다.,Our customer service hours are from 9 AM to 6 PM on weekdays.,gpt-4o-mini,v2_structured,20251205_160208,valid
+557,일상생활,문어체(보고서 스타일),조건문,저녁을 먹기 전에 손을 씻는 것이 중요하다.,It is important to wash your hands before eating dinner.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8469,IT/AI,조언/상담 스타일,원인·결과문,인공지능이 발전하면서 많은 일자리가 사라질 수 있어.,"As artificial intelligence advances, many jobs may disappear.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4796,스포츠,대화체,명령/요청문,다음 주에 마라톤 대회가 있어.,There's a marathon competition next week.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2470,업무,문어체(보고서 스타일),비교문,"시간 관리가 중요한 만큼, 일정 조율도 필수입니다.","Just as time management is crucial, coordinating schedules is essential.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3739,시간관리,조언/상담 스타일,명령/요청문,결과를 기록해두면 도움이 될 거야.,Keeping a record of your results will be helpful.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4287,경제/금융,대화체,조건문,"세금이 인상되면, 경제 성장에 악영향을 줄 수 있어.","If taxes increase, it can negatively impact economic growth.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2605,업무,뉴스 기사체,원인·결과문,복지 혜택이 우수하면 인재 유치에 유리하다.,Excellent welfare benefits make it easier to attract talent.,gpt-4o-mini,v2_structured,20251205_160208,valid
+363,여행,조언/상담 스타일,단문,현지 언어 몇 마디를 배우면 유용해.,Learning a few phrases in the local language can be helpful.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6925,문화/예술,기술 설명체,명령/요청문,이 미술관에는 현대 예술 작품이 많아요.,This art museum has many contemporary art pieces.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1705,식당,기술 설명체,원인·결과문,고객의 피드백을 적극 반영하므로 서비스가 개선된다.,The service improves because customer feedback is actively taken into account.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2140,기술,기술 설명체,단문,클라우드 컴퓨팅은 유연한 자원 관리가 가능합니다.,Cloud computing allows for flexible resource management.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3240,교육,조언/상담 스타일,조건문,실수에서 배우는 것도 중요한 거야.,"If you learn from your mistakes, it can be an important part of your growth.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2384,업무,대화체,단문,팀원들에게 피드백을 요청해야 해.,I need to ask the team for feedback.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7315,쇼핑,뉴스 기사체,조건문,온라인 쇼핑을 할 때는 배송비를 고려해야 해요.,"When shopping online, you need to consider the shipping costs.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4312,경제/금융,대화체,원인·결과문,환율이 변동하면 수출입 기업에 영향을 미친다.,Fluctuations in exchange rates affect import and export businesses.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1313,건강,조언/상담 스타일,단문,긍정적인 생각이 건강에 도움이 돼.,Positive thinking can benefit your health.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3931,감정표현,SNS 스타일,조건문,좋은 일이 생기면 꼭 나한테 알려줘.,Make sure to let me know if something good happens.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6184,고객센터,대화체,복문,내 계정 정보는 어떻게 업데이트하죠?,How can I update my account information?,gpt-4o-mini,v2_structured,20251205_160208,valid
+1592,식당,SNS 스타일,명령/요청문,이 식당 분위기 진짜 좋아.,The atmosphere in this restaurant is really nice.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8913,자기계발,조언/상담 스타일,복문,자기계발에 시간을 투자하는 것은 매우 가치 있어.,Investing time in self-improvement is incredibly valuable.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2163,기술,기술 설명체,조건문,가상 현실 기술이 발전하면 교육 방식이 바뀔 것입니다.,"As virtual reality technology advances, the methods of education will change.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2397,업무,대화체,복문,주말에 프로젝트 마감을 할 예정이야.,I plan to finish the project over the weekend.,gpt-4o-mini,v2_structured,20251205_160208,valid
+318,여행,감정 표현 스타일,조건문,"너가 여행을 떠난다면, 정말 멋진 경험을 할 거야.","If you go on a trip, you'll have an amazing experience.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5234,기후/날씨,대화체,복문,가을은 정말 아름다운 계절이지.,Autumn is truly a beautiful season.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5069,스포츠,감정 표현 스타일,조건문,경기 전에 스트레칭을 하면 부상을 예방할 수 있어.,"If you stretch before the game, you can prevent injuries.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4037,감정표현,기술 설명체,복문,나는 항상 행복한 기분을 느껴.,I always feel a sense of happiness.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3021,교육,SNS 스타일,명령/요청문,학교에 지각하지 말아라.,Don’t be late for school.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5296,기후/날씨,문어체(보고서 스타일),조건문,기온이 상승하면 더위가 느껴질 것이다.,"If the temperature rises, it will feel hotter.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3973,감정표현,뉴스 기사체,단문,그 소식은 나를 실망시켰다.,That news disappointed me.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5371,기후/날씨,SNS 스타일,비교문,여름밤은 겨울밤보다 더 길어.,Summer nights are longer than winter nights.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4134,감정표현,감정 표현 스타일,원인·결과문,미소를 짓는 너를 보니 하루가 밝아져.,Seeing you smile brightens my day.,gpt-4o-mini,v2_structured,20251205_160208,valid
+975,건강,대화체,비교문,물보다 주스가 더 맛있어.,Juice tastes better than water.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7292,쇼핑,뉴스 기사체,단문,이번 주에 세일이 많이 해요.,There are many sales this week.,gpt-4o-mini,v2_structured,20251205_160208,valid
+955,건강,대화체,복문,채소를 많이 먹는 것이 중요해.,It's important to eat plenty of vegetables.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8834,자기계발,기술 설명체,명령/요청문,자신의 강점을 분석하라.,Analyze your strengths.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5017,스포츠,기술 설명체,비교문,레슬링은 힘과 기술 모두가 중요하다.,Wrestling values both strength and technique.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9239,사회/뉴스,뉴스 기사체,원인·결과문,기후 변화로 인해 농작물 수확량이 줄어들고 있습니다.,Climate change is causing a decline in crop yields.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7491,쇼핑,조언/상담 스타일,복문,온라인 쇼핑 시 배송비를 염두에 두는 것이 중요해.,It's important to keep shipping costs in mind when shopping online.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1641,식당,뉴스 기사체,원인·결과문,친절한 서비스가 손님들의 만족도를 높였다.,The friendly service has increased customer satisfaction.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1291,건강,감정 표현 스타일,원인·결과문,과일과 채소를 많이 먹으면 기분이 좋아져.,Eating plenty of fruits and vegetables boosts your mood.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1381,건강,고객센터 안내 스타일,복문,정기적으로 의사를 방문하여 건강 상태를 체크하는 것이 좋습니다.,Regular visits to the doctor to check your health status are recommended.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1934,기술,대화체,비교문,가상 현실은 현실보다 더 몰입감을 줄 수 있어.,Virtual reality can provide a more immersive experience than reality itself.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4676,경제/금융,조언/상담 스타일,명령/요청문,대출 조건을 잘 확인해봐야 해.,You should carefully check the loan terms.,gpt-4o-mini,v2_structured,20251205_160208,valid
+893,일상생활,고객센터 안내 스타일,단문,고객 지원 팀에 직접 문의해 보세요.,Please contact the customer support team directly.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7288,쇼핑,SNS 스타일,명령/요청문,배송 빨리 해줄 수 있어?,Can you make sure the delivery is fast?,gpt-4o-mini,v2_structured,20251205_160208,valid
+4877,스포츠,SNS 스타일,복문,테니스는 나한테 너무 어려운 운동이야.,Tennis is a sport that's really tough for me.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7907,직장 관계,감정 표현 스타일,복문,그 친구와 이야기하면 항상 긍정적인 에너지를 받아.,Talking to that friend always gives me positive energy.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8195,IT/AI,SNS 스타일,단문,AI가 우리 생활을 바꾸고 있어요.,AI is changing our lives.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8905,자기계발,조언/상담 스타일,단문,자신에게 맞는 루틴을 찾아봐.,Find a routine that works for you.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2467,업무,문어체(보고서 스타일),조건문,"업무 진행 중 문제가 생기면, 팀과 즉시 논의해야 합니다.","If issues arise during work, you should discuss them with the team immediately.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7658,직장 관계,문어체(보고서 스타일),단문,직원 간의 관계가 직무 수행에 영향을 미친다.,Relationships among employees impact job performance.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1914,기술,대화체,복문,프로그램이 느려지는 이유는 여러 가지가 있어.,There are various reasons why the program is running slow.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2737,업무,조언/상담 스타일,단문,마감일을 지키는 게 중요해.,It's important to meet deadlines.,gpt-4o-mini,v2_structured,20251205_160208,valid
+727,일상생활,기술 설명체,복문,영화를 보기 위해서 미리 예매를 했습니다.,I made a reservation in advance to watch the movie.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7215,쇼핑,문어체(보고서 스타일),원인·결과문,할인 쿠폰을 사용하면 비용이 줄어든다.,Using discount coupons reduces costs.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8246,IT/AI,SNS 스타일,명령/요청문,프로그래밍에 대한 책 추천해줘.,Recommend me a book about programming.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1797,식당,조언/상담 스타일,복문,한 번 가보면 다시 찾고 싶을 거야.,"Once you go there, you'll want to come back again.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3846,감정표현,대화체,원인·결과문,좋은 책을 읽어서 기분이 나아졌어.,I felt better because I read a good book.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6403,고객센터,기술 설명체,단문,문의 사항을 남겨주시면 빠르게 답변 드릴게요.,"If you leave your inquiry, we will respond quickly.",gpt-4o-mini,v2_structured,20251205_160208,valid
+937,일상생활,고객센터 안내 스타일,명령/요청문,환불 요청은 어떻게 하나요?,How can I request a refund?,gpt-4o-mini,v2_structured,20251205_160208,valid
+2266,기술,조언/상담 스타일,단문,온라인 자료를 활용하는 것이 좋다.,It's advisable to make use of online resources.,gpt-4o-mini,v2_structured,20251205_160208,valid
+825,일상생활,감정 표현 스타일,명령/요청문,일찍 자는 게 좋을 것 같아.,I think it's better to go to bed early.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7275,쇼핑,SNS 스타일,원인·결과문,배송이 빨라서 아주 만족해요.,I'm very satisfied because the delivery was fast.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1390,건강,고객센터 안내 스타일,조건문,규칙적인 건강 검진을 받으면 조기 발견이 가능합니다.,"If you have regular health check-ups, early detection is possible.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3565,시간관리,뉴스 기사체,명령/요청문,시간 관리를 통해 스트레스를 줄이세요.,Reduce stress by managing your time effectively.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5430,기후/날씨,뉴스 기사체,비교문,"산간 지역은 평균 기온이 낮지만, 해안 지역은 온난합니다.","Mountainous areas have lower average temperatures, while coastal regions are warmer.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7828,직장 관계,뉴스 기사체,명령/요청문,연락을 자주 해 주세요.,Please keep in touch regularly.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5691,기후/날씨,고객센터 안내 스타일,명령/요청문,기상청의 정보를 확인해 보세요.,Check the information from the meteorological agency.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7879,직장 관계,기술 설명체,원인·결과문,리더의 명확한 비전은 팀원들을 동기부여한다.,A clear vision from the leader motivates the team members.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1869,식당,고객센터 안내 스타일,비교문,이 식당의 분위기는 조용해요.,The atmosphere of this restaurant is quiet.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8203,IT/AI,SNS 스타일,복문,IT 업계에서 협업툴이 점점 더 중요해지고 있어.,Collaboration tools are becoming increasingly important in the IT industry.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7487,쇼핑,조언/상담 스타일,복문,상점에 직접 가면 실제 제품을 확인할 수 있어.,Visiting a store allows you to check the actual products.,gpt-4o-mini,v2_structured,20251205_160208,valid
+807,일상생활,감정 표현 스타일,원인·결과문,오늘 날씨가 좋아서 기분이 정말 좋아.,I feel really good today because the weather is nice.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4806,스포츠,문어체(보고서 스타일),단문,테니스는 개인 또는 팀으로 즐길 수 있는 스포츠입니다.,Tennis can be enjoyed as either an individual or a team sport.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9416,사회/뉴스,조언/상담 스타일,원인·결과문,정기적으로 운동을 하면 스트레스가 줄어들어요.,Exercising regularly can help reduce stress.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7512,쇼핑,조언/상담 스타일,원인·결과문,세일 기간을 놓치지 마세요.,Don't miss out on the sale period.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8057,직장 관계,고객센터 안내 스타일,원인·결과문,상사의 지지가 필요할 때가 있습니다.,There are times when support from supervisors is needed.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4495,경제/금융,뉴스 기사체,명령/요청문,지난 분기 GDP 성장률이 예상보다 높았어요.,The GDP growth rate for the last quarter exceeded expectations.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2633,업무,기술 설명체,복문,정기적으로 진행되는 성과 평가가 필요합니다.,Regular performance evaluations are necessary.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8445,IT/AI,조언/상담 스타일,복문,데이터 보호 규정은 모든 기업이 준수해야 할 필수 사항이야.,Data protection regulations are a necessity that all companies must comply with.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7833,직장 관계,기술 설명체,단문,그는 항상 긍정적인 태도를 가져요.,He always has a positive attitude.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4389,경제/금융,SNS 스타일,단문,주식 시장에서 수익을 내는 건 쉬운 일이 아니야.,Making a profit in the stock market is not easy.,gpt-4o-mini,v2_structured,20251205_160208,valid
+146,여행,SNS 스타일,조건문,일찍 출발하면 교통체증을 피할 수 있어.,"If you leave early, you can avoid traffic jams.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6468,고객센터,감정 표현 스타일,복문,이 문제가 언제 해결될지 궁금해요.,I'm really curious about when this issue will be resolved.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2034,기술,SNS 스타일,복문,소셜 미디어 플랫폼의 변화가 빠르게 일어나고 있어.,Changes in social media platforms are happening rapidly.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1166,건강,뉴스 기사체,원인·결과문,스트레스가 많은 생활은 면역력을 저하시킨다.,A stressful lifestyle can weaken the immune system.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2051,기술,SNS 스타일,비교문,AI는 사람보다 더 빠르게 데이터를 분석할 수 있어.,AI can analyze data faster than humans.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3761,시간관리,고객센터 안내 스타일,조건문,계획을 세운다면 목표를 더 쉽게 달성할 수 있습니다.,"If you set a plan, you can achieve your goals more easily.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4436,경제/금융,SNS 스타일,명령/요청문,이자율이 오르면 대출이 힘들어져.,"If interest rates rise, loans become harder to get.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3431,시간관리,문어체(보고서 스타일),원인·결과문,계획을 세우는 것은 목표 달성에 필수적입니다.,Setting a plan is essential for achieving goals.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8191,IT/AI,SNS 스타일,단문,데이터 보안은 정말 중요해요.,Data security is really important.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8304,IT/AI,뉴스 기사체,명령/요청문,자율주행차의 상용화가 다가오고 있습니다.,The commercialization of autonomous vehicles is approaching.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7070,문화/예술,고객센터 안내 스타일,복문,전시 기간 동안 다양한 워크숍이 진행됩니다.,Various workshops will be held throughout the exhibition period.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4362,경제/금융,문어체(보고서 스타일),비교문,글로벌 경제는 국가의 정책 변화에 민감하게 반응한다.,The global economy reacts sensitively to changes in national policies.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1772,식당,감정 표현 스타일,명령/요청문,여기 음식이 정말 맛있어요!,The food here is really delicious!,gpt-4o-mini,v2_structured,20251205_160208,valid
+3512,시간관리,뉴스 기사체,단문,작은 목표부터 차근차근 달성하자.,Let's achieve small goals step by step.,gpt-4o-mini,v2_structured,20251205_160208,valid
+272,여행,기술 설명체,비교문,전통 시장은 현대 쇼핑몰과는 다른 경험을 제공한다.,Traditional markets offer a different experience compared to modern shopping malls.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2033,기술,SNS 스타일,복문,블록체인 기술은 신뢰를 구축하는 데 도움을 줘.,Blockchain technology helps in building trust.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9175,사회/뉴스,SNS 스타일,비교문,사회적 거리두기는 예전보다 더 필요해.,Social distancing is more necessary now than it was before.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3811,감정표현,대화체,복문,네가 없으니 정말 외롭고 심심해.,I feel really lonely and bored without you.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4347,경제/금융,문어체(보고서 스타일),조건문,인플레이션이 지속된다면 구매력은 감소할 것이다.,"Should inflation persist, purchasing power will decline.",gpt-4o-mini,v2_structured,20251205_160208,valid
+546,일상생활,문어체(보고서 스타일),복문,주말에는 친구들과 함께 영화관에 가기로 했어요.,I decided to go to the cinema with my friends this weekend.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3242,교육,조언/상담 스타일,비교문,좋은 교사는 학생의 잠재력을 끌어냅니다.,A good teacher brings out the potential in their students.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7565,쇼핑,고객센터 안내 스타일,비교문,매장에서 바로 구매하는 것은 즉각적인 만족감을 줘요.,Purchasing in-store provides immediate satisfaction.,gpt-4o-mini,v2_structured,20251205_160208,valid
+921,일상생활,고객센터 안내 스타일,비교문,책을 읽는 것과 영상을 보는 것은 지식을 얻는 방법이 다르다.,Reading a book and watching a video are different methods of gaining knowledge.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8652,자기계발,문어체(보고서 스타일),원인·결과문,스스로를 믿는 것이 중요한 첫걸음이다.,Believing in oneself is an important first step.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6641,문화/예술,대화체,단문,그 사진은 정말 인상적이야.,That photograph is really impressive.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7695,직장 관계,문어체(보고서 스타일),원인·결과문,리더십이 부족한 경우 팀의 사기가 저하된다.,"In the absence of strong leadership, team morale diminishes.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8231,IT/AI,SNS 스타일,원인·결과문,코딩을 배우면 더 많은 기회가 생길 거야.,Learning to code opens up more opportunities.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7127,쇼핑,대화체,복문,온라인 쇼핑할 때는 배송 기간을 꼭 확인해.,"When shopping online, make sure to check the delivery time.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4279,경제/금융,대화체,복문,투자자들이 변동성을 걱정하고 있어.,Investors are worried about the volatility in the market.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2984,교육,SNS 스타일,복문,미래를 위해 어떤 과목을 선택해야 할까?,Which subjects should I choose for a better future?,gpt-4o-mini,v2_structured,20251205_160208,valid
+131,여행,SNS 스타일,복문,혼자 여행하면서 새로운 친구도 많이 사귈 수 있었어.,"While traveling alone, I was able to make a lot of new friends.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7981,직장 관계,조언/상담 스타일,비교문,상사와의 관계는 경력에 큰 영향을 미쳐.,The relationship with your boss greatly impacts your career.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2668,업무,기술 설명체,명령/요청문,작업 우선순위를 정해줘.,Set the priorities for the tasks.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7139,쇼핑,대화체,조건문,이 제품의 후기가 좋다면 믿어도 될까?,Can I trust it if the reviews for this product are good?,gpt-4o-mini,v2_structured,20251205_160208,valid
+3224,교육,조언/상담 스타일,복문,친구와 함께 공부하면 지식을 더 잘 기억할 수 있어요.,Studying with friends can help you remember knowledge better.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7694,직장 관계,문어체(보고서 스타일),원인·결과문,팀워크가 강화되면 성과가 향상된다.,"When teamwork is strengthened, performance improves.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5393,기후/날씨,SNS 스타일,명령/요청문,주말엔 날씨가 좋아서 바다 가고 싶어.,"The weather is supposed to be nice this weekend, so I want to go to the beach.",gpt-4o-mini,v2_structured,20251205_160208,valid
+615,일상생활,SNS 스타일,조건문,매일 운동하면 건강해질 거야.,"If you exercise every day, you'll become healthier.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9401,사회/뉴스,조언/상담 스타일,조건문,"가족과의 관계가 소원하다면, 대화를 시도해 보세요.","If your relationship with your family feels distant, attempt to have a conversation.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1467,식당,대화체,원인·결과문,이 식당은 분위기가 좋아서 데이트하기 딱이야.,"This restaurant has a great atmosphere, making it perfect for a date.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4498,경제/금융,뉴스 기사체,명령/요청문,재정 정책의 변화가 경제에 미치는 영향을 살펴보세요.,Examine the impact of changes in fiscal policy on the economy.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3043,교육,뉴스 기사체,복문,최근 연구에 따르면 조기 교육이 매우 효과적이라고 한다.,Recent studies suggest that early education is highly effective.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2420,업무,대화체,원인·결과문,업무가 많아서 스트레스를 받아.,I'm feeling stressed because I have a lot of work to do.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5086,스포츠,감정 표현 스타일,원인·결과문,이겼기 때문에 기분이 정말 좋았어.,I felt really good because we won.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3295,교육,고객센터 안내 스타일,조건문,"시간이 부족할 경우, 교수님께 조언을 구하세요.","If you are short on time, ask your professor for advice.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6738,문화/예술,문어체(보고서 스타일),원인·결과문,미술관 방문은 다양한 문화를 이해하는 기회를 제공합니다.,Visiting an art museum provides an opportunity to understand various cultures.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1501,식당,문어체(보고서 스타일),복문,이곳은 가족 모임에도 적합한 장소입니다.,This place is suitable for family gatherings.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1522,식당,문어체(보고서 스타일),원인·결과문,식당의 분위기가 좋으면 손님이 더 많이 찾아온다.,"When the atmosphere of a restaurant is pleasant, more customers tend to visit.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8651,자기계발,문어체(보고서 스타일),원인·결과문,시간 관리를 잘하면 스트레스를 줄일 수 있다.,Good time management can reduce stress.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4233,감정표현,고객센터 안내 스타일,조건문,저희 서비스를 개선하기 위해 최선을 다하겠습니다.,We will do our best to improve our services.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7687,직장 관계,문어체(보고서 스타일),비교문,정기적인 회의는 직장 내 유대감을 강화합니다.,Regular meetings strengthen bonds within the workplace.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4431,경제/금융,SNS 스타일,원인·결과문,환율이 오르면 수출이 늘어날 수 있어.,"When exchange rates rise, exports may increase.",gpt-4o-mini,v2_structured,20251205_160208,valid
+391,여행,조언/상담 스타일,비교문,문화 체험이 많은 여행은 단순한 관광보다 더 의미 있어.,A trip rich in cultural experiences is more meaningful than just sightseeing.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9358,사회/뉴스,감정 표현 스타일,원인·결과문,이런 상황은 우리의 일상에 큰 영향을 미칠 수 있어요.,Such situations can greatly affect our daily lives.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7125,쇼핑,대화체,복문,네가 추천한 그 가게는 정말 괜찮더라.,The store you recommended was really nice.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5914,교통,뉴스 기사체,원인·결과문,신호등이 고장나면 교통사고가 발생할 수 있습니다.,"If traffic lights malfunction, it can lead to traffic accidents.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4807,스포츠,문어체(보고서 스타일),단문,다양한 운동을 통해 건강을 유지하는 것이 중요하다.,It's important to maintain health through various exercises.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8497,IT/AI,고객센터 안내 스타일,단문,추가 지원이 필요하시면 말씀해 주세요.,Let us know if you need further assistance.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8239,IT/AI,SNS 스타일,명령/요청문,AI로 인생이 바뀌었어!,My life has changed with AI!,gpt-4o-mini,v2_structured,20251205_160208,valid
+8045,직장 관계,고객센터 안내 스타일,비교문,긍정적인 분위기는 팀의 사기를 높여요.,A positive atmosphere boosts team morale.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3994,감정표현,뉴스 기사체,조건문,"행복한 기분이 들면, 그 순간을 소중히 여기는 것이 중요해요.","When you feel happy, it's important to cherish that moment.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9071,사회/뉴스,대화체,명령/요청문,정치 상황이 심각해지고 있어.,The political situation is getting serious.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6610,고객센터,고객센터 안내 스타일,비교문,자주 묻는 질문 페이지를 확인해 보세요.,Please check the FAQ page for common inquiries.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5320,기후/날씨,문어체(보고서 스타일),원인·결과문,겨울철 기온이 높아지면 눈 대신 비가 내릴 수 있다.,"When winter temperatures rise, it may rain instead of snow.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7120,쇼핑,대화체,단문,바지 사이즈가 어떻게 되세요?,What size of pants do you wear?,gpt-4o-mini,v2_structured,20251205_160208,valid
+2422,업무,대화체,원인·결과문,새로운 시스템을 도입하니까 일이 더 편해졌어.,"Since we implemented the new system, work has become easier.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5605,기후/날씨,조언/상담 스타일,비교문,여름에는 더운 날씨가 지속돼.,"In summer, the hot weather tends to linger.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1751,식당,감정 표현 스타일,비교문,이 카페의 커피는 집에서 만든 것보다 훨씬 더 진해.,The coffee at this cafe is much richer than what I make at home.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8552,자기계발,대화체,단문,긍정적인 마인드를 유지하자.,Let's keep a positive mindset.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9227,사회/뉴스,뉴스 기사체,비교문,"서울은 대중교통이 편리하지만, 지방은 불편합니다.","Public transportation is convenient in Seoul, whereas it's inconvenient in rural areas.",gpt-4o-mini,v2_structured,20251205_160208,valid
+339,여행,감정 표현 스타일,원인·결과문,맛있는 음식을 먹어서 여행이 더욱 즐거웠어요.,The trip was even more enjoyable because I had delicious food.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1342,건강,조언/상담 스타일,비교문,"몸에 좋은 지방을 섭취하는 것은 중요하고, 트랜스지방은 피해야 해.","Consuming healthy fats is essential, whereas trans fats should be avoided.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9064,사회/뉴스,대화체,원인·결과문,이런 이유로 많은 사람들이 스트레스를 받고 있습니다.,"For this reason, many people are feeling stressed.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7983,직장 관계,조언/상담 스타일,비교문,긍정적인 피드백은 동기 부여가 돼.,Positive feedback serves as a great motivator.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3641,시간관리,감정 표현 스타일,복문,"시간 관리가 잘 되면, 여유를 가지며 일할 수 있어.","When time management is done well, you can work with ease.",gpt-4o-mini,v2_structured,20251205_160208,valid
+330,여행,감정 표현 스타일,비교문,고요한 산속의 공기는 해변의 바람보다 신선하다.,The air in the quiet mountains is fresher than the breeze at the beach.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8376,IT/AI,감정 표현 스타일,단문,프로그래밍은 창의력을 키울 수 있는 기회야.,Programming is an opportunity to enhance creativity.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3005,교육,SNS 스타일,비교문,"자율 학습은 자기주도성이 필요하지만, 수업은 더 많은 지원이 있어.","Self-directed learning requires initiative, while classes provide more support.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6961,문화/예술,감정 표현 스타일,조건문,"영화를 보지 않았다면, 감정의 여운이 없었겠지.","If I hadn't watched the movie, I wouldn't have felt its lingering emotions.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4091,감정표현,감정 표현 스타일,단문,너와 함께할 수 있어서 행복해.,I'm happy to be with you.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2323,기술,고객센터 안내 스타일,단문,지원팀에 연락해 주세요.,Please contact the support team.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6668,문화/예술,대화체,비교문,"서양의 클래식 음악은 구조가 복잡한 반면, 한국의 민속 음악은 단순해.","While Western classical music has complex structures, Korean folk music tends to be simpler.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7010,문화/예술,조언/상담 스타일,복문,예술을 통해 자신을 표현하는 방법을 찾아봐.,Look for ways to express yourself through art.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4198,감정표현,조언/상담 스타일,명령/요청문,슬픈 기분이 드는 건 자연스러운 일이야.,Feeling sad is a normal part of life.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3550,시간관리,뉴스 기사체,원인·결과문,마감일을 지키지 않으면 신뢰를 잃을 수 있다.,Failing to meet deadlines can lead to loss of trust.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8364,IT/AI,기술 설명체,명령/요청문,신경망 구조를 조정하는 방법을 배워야 해.,You should learn how to adjust neural network architectures.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4204,감정표현,조언/상담 스타일,명령/요청문,가끔은 혼자만의 시간이 필요해.,"Sometimes, you need some time alone.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8838,자기계발,기술 설명체,명령/요청문,주변 사람들과 의견을 나눠라.,Share your thoughts with those around you.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8480,IT/AI,조언/상담 스타일,명령/요청문,소프트웨어 개발에서 협업은 필수입니다.,Collaboration is essential in software development.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6186,고객센터,대화체,복문,이 문제에 대해 조치를 취해 주셨으면 해요.,I would appreciate it if you could take action on this issue.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1640,식당,뉴스 기사체,원인·결과문,좋은 음식 품질 덕분에 재방문율이 높아졌다.,The high quality of food has resulted in a higher rate of return visits.,gpt-4o-mini,v2_structured,20251205_160208,valid
+61,여행,문어체(보고서 스타일),단문,항공권 예약은 미리 하는 것이 좋습니다.,It is advisable to book flight tickets in advance.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1241,건강,기술 설명체,명령/요청문,건강한 체중을 유지하는 것이 중요하다.,Maintaining a healthy weight is important.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5761,교통,문어체(보고서 스타일),단문,고속도로는 빠릅니다.,The highway offers a faster route.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5137,스포츠,조언/상담 스타일,비교문,"배구는 팀원 간의 소통이 중요해, 그러나 육상은 혼자서만 하는 경기야.","Communication among teammates is key in volleyball, whereas athletics is an individual sport.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2344,기술,고객센터 안내 스타일,조건문,"배터리가 부족하면, 충전기를 연결하세요.","If your battery is low, connect your charger.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2121,기술,뉴스 기사체,원인·결과문,5G 네트워크 도입으로 데이터 전송 속도가 빨라졌어요.,The introduction of 5G networks has accelerated data transfer speeds.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1525,식당,문어체(보고서 스타일),원인·결과문,"특별한 할인 행사가 있을 경우, 고객 유치에 도움이 된다.",Special discount events can help attract more customers.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7618,직장 관계,대화체,조건문,마감일을 지키면 팀의 신뢰를 얻을 수 있어.,"By meeting deadlines, you can gain the team's trust.",gpt-4o-mini,v2_structured,20251205_160208,valid
+154,여행,SNS 스타일,비교문,타이완의 길거리 음식이 한국 음식보다 더 맛있어.,Street food in Taiwan is tastier than Korean food.,gpt-4o-mini,v2_structured,20251205_160208,valid
+482,일상생활,대화체,단문,이 근처에 좋은 식당 있어?,Is there a good restaurant around here?,gpt-4o-mini,v2_structured,20251205_160208,valid
+6123,교통,고객센터 안내 스타일,복문,전철과 버스의 운행 시간은 다를 수 있습니다.,The operating hours of the subway and bus may vary.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7675,직장 관계,문어체(보고서 스타일),조건문,"분쟁이 생기면, 대화를 통해 해결해야 한다.","If a conflict arises, it should be resolved through conversation.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7102,문화/예술,고객센터 안내 스타일,원인·결과문,디자인은 일상생활에 큰 영향을 미쳐요.,Design greatly impacts our daily lives.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1763,식당,감정 표현 스타일,원인·결과문,손님이 많아서 대기 시간이 길어.,There are so many customers that the waiting time is long.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7716,직장 관계,SNS 스타일,단문,팀원들이랑 협업 잘하고 있어.,I’m collaborating well with my team members.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8616,자기계발,문어체(보고서 스타일),복문,매일 조금씩 개선하는 것이 효과적이에요.,Improving a little every day is effective.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7480,쇼핑,조언/상담 스타일,단문,가성비 좋은 제품을 찾아봐.,Look for products with good value for money.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6213,고객센터,대화체,원인·결과문,해결이 필요하니 빠르게 연락 주세요.,"I need a solution, so please contact me quickly.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4854,스포츠,문어체(보고서 스타일),명령/요청문,야구 경기는 보통 9이닝으로 구성된다.,A baseball game typically consists of nine innings.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2712,업무,감정 표현 스타일,비교문,시급한 일은 항상 나를 압박하는 것 같아.,Urgent tasks always seem to put pressure on me.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6767,문화/예술,SNS 스타일,복문,"서울의 거리 예술은 정말 멋져, 아트투어를 해보는 것도 좋을 듯.",The street art in Seoul is amazing; going on an art tour would be a great idea.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4151,감정표현,조언/상담 스타일,단문,너의 기분을 표현하는 것은 중요해.,Expressing your feelings is important.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1334,건강,조언/상담 스타일,비교문,"운동을 하는 것은 건강에 좋지만, 과도한 운동은 해로워.","While exercising is beneficial for health, excessive exercise can be harmful.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8379,IT/AI,감정 표현 스타일,복문,인공지능의 발전은 우리의 일상에 큰 변화를 가져오고 있어.,The advancement of artificial intelligence is bringing significant changes to our daily lives.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8915,자기계발,조언/상담 스타일,복문,규칙적인 생활이 건강을 유지하는 열쇠야.,A regular routine is the key to maintaining good health.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9216,사회/뉴스,뉴스 기사체,조건문,"만약 비가 오면, 우리는 집에 있을 것이다.","If it rains, we will stay at home.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8655,자기계발,문어체(보고서 스타일),명령/요청문,자기계발은 지속적인 노력이 필요하다.,Self-improvement requires continuous effort.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3851,감정표현,대화체,명령/요청문,지금 너무 화가 나.,I'm really angry right now.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8341,IT/AI,기술 설명체,비교문,전통적인 프로그래밍 언어는 안정성이 높다.,Traditional programming languages offer high stability.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4125,감정표현,감정 표현 스타일,원인·결과문,너와의 대화가 즐거워서 기분이 좋아졌어.,Talking to you made me feel happy.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8506,IT/AI,고객센터 안내 스타일,복문,최고의 서비스를 제공하기 위해 지속적으로 노력하고 있습니다.,We continuously strive to provide the best service possible.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4789,스포츠,대화체,원인·결과문,그는 좋은 슈팅을 했기에 골을 넣을 수 있었어.,He scored a goal because he made a great shot.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2867,교육,대화체,복문,학교 행사에서 발표를 해야 해서 긴장돼.,I'm nervous because I have to present at the school event.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1387,건강,고객센터 안내 스타일,조건문,과일과 채소를 먹으면 영양이 풍부해집니다.,Eating fruits and vegetables means you will get a lot of nutrients.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5942,교통,기술 설명체,복문,대중교통을 이용하면 환경 보호에도 큰 도움이 된다.,Using public transportation greatly contributes to environmental conservation.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3068,교육,뉴스 기사체,비교문,학생들이 적극적으로 참여하는 수업은 더 기억에 남아.,Classes where students actively participate tend to be more memorable.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8594,자기계발,대화체,원인·결과문,네 생각을 나누면 더 많은 아이디어를 얻을 수 있어.,Sharing your thoughts can lead to gaining more ideas.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3630,시간관리,감정 표현 스타일,단문,짧은 휴식을 자주 가져봐.,Take short breaks frequently.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8976,자기계발,고객센터 안내 스타일,복문,스트레스를 관리하는 방법을 배우는 것이 필요합니다.,Learning how to manage stress is necessary for well-being.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8492,IT/AI,고객센터 안내 스타일,단문,계정 생성 방법을 알려주세요.,Please guide me on how to create an account.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3029,교육,SNS 스타일,명령/요청문,좋은 성적을 위해 노력해.,Work hard to achieve good grades.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2970,교육,문어체(보고서 스타일),명령/요청문,학교는 학생들에게 다양한 기회를 제공해야 합니다.,Schools should provide students with various opportunities.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6137,교통,고객센터 안내 스타일,조건문,주차 공간이 없다면 인근 유료 주차장을 이용하세요.,"If there are no parking spaces, use a nearby paid parking lot.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4264,경제/금융,대화체,단문,요즘 물가가 너무 올라.,The prices have gone up a lot these days.,gpt-4o-mini,v2_structured,20251205_160208,valid
+646,일상생활,SNS 스타일,명령/요청문,내일 아침에 일찍 일어나.,Wake up early tomorrow morning.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9164,사회/뉴스,SNS 스타일,조건문,기분 전환이 필요하면 취미를 가져보는 게 좋아.,"If you need a change of mood, it’s good to pick up a hobby.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2075,기술,SNS 스타일,명령/요청문,이 기술로 일상이 어떻게 달라질까?,How will this technology change our daily lives?,gpt-4o-mini,v2_structured,20251205_160208,valid
+342,여행,감정 표현 스타일,원인·결과문,아름다운 일출을 보았기 때문에 감동했어요.,I was moved because I witnessed a beautiful sunrise.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8042,직장 관계,고객센터 안내 스타일,비교문,동료와의 신뢰가 없다면 협업이 어려워.,"Without trust among colleagues, collaboration becomes difficult.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1623,식당,뉴스 기사체,조건문,주문 전에 알레르기를 확인하는 것이 좋습니다.,It is advisable to check for allergies before placing your order.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7142,쇼핑,대화체,조건문,교환이 가능하다면 마음 편히 구매할 수 있어.,"If exchanges are allowed, I can buy it with peace of mind.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5797,교통,문어체(보고서 스타일),원인·결과문,운전 중 스마트폰을 사용하면 주의력이 분산됩니다.,Using a smartphone while driving distracts attention.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7185,쇼핑,문어체(보고서 스타일),복문,이 가게의 할인 제품은 품질이 좋습니다.,The discounted products in this store are of high quality.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8233,IT/AI,SNS 스타일,원인·결과문,머신러닝 덕분에 예측 분석이 가능해졌어.,"Thanks to machine learning, predictive analytics has become possible.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5476,기후/날씨,기술 설명체,조건문,"온도가 0도 이하로 떨어지면, 얼음이 생길 수 있다.","When the temperature drops below zero, ice may form.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8781,자기계발,뉴스 기사체,명령/요청문,마음을 가라앉히는 시간을 가져야 합니다.,You should take time to calm your mind.,gpt-4o-mini,v2_structured,20251205_160208,valid
+75,여행,문어체(보고서 스타일),복문,여행 중에는 항상 카메라를 챙기는 것이 좋다.,It is advisable to always carry a camera while traveling.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8758,자기계발,뉴스 기사체,비교문,실패는 성공의 어머니라는 말이 있다.,There's a saying that failure is the mother of success.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2052,기술,SNS 스타일,비교문,전기차는 내연기관차보다 환경에 덜 해로워.,Electric cars are less harmful to the environment than internal combustion vehicles.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2542,업무,SNS 스타일,원인·결과문,팀원들과의 협업 덕분에 효율적이었어.,"Thanks to collaborating with my team, we were efficient.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1302,건강,감정 표현 스타일,명령/요청문,내 몸을 소중히 여겨야 해.,You must cherish your body.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5878,교통,뉴스 기사체,단문,대형 트럭이 도로를 점유하고 있습니다.,A large truck is blocking the road.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7369,쇼핑,기술 설명체,복문,특별 세일 기간을 놓치지 않도록 주의하세요.,Be careful not to miss special sale periods.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1305,건강,조언/상담 스타일,단문,정기적으로 운동하는 게 좋아.,It's beneficial to exercise regularly.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8429,IT/AI,조언/상담 스타일,단문,AI 기술에 대해 배우는 게 중요해.,It's essential to learn about AI technology.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8629,자기계발,문어체(보고서 스타일),조건문,피드백을 적극적으로 수용하면 더 성장할 수 있다.,Being open to feedback can lead to greater personal growth.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2600,업무,뉴스 기사체,원인·결과문,업무에 대한 피드백을 주면 직원들이 더 잘 성장한다.,Providing feedback on work allows employees to grow better.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2574,업무,뉴스 기사체,복문,일정 조정이 필요한 경우 사전에 알려주셔야 합니다.,You must inform us in advance if any schedule adjustments are needed.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3187,교육,감정 표현 스타일,비교문,친구와의 협력은 혼자 하는 것보다 더 큰 성과를 가져와.,Collaboration with friends brings greater achievements than working alone.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2769,업무,조언/상담 스타일,비교문,일과 개인 생활의 균형이 매우 중요해.,Maintaining a balance between work and personal life is crucial.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4832,스포츠,문어체(보고서 스타일),비교문,야구는 개인의 기량이 중요한 스포츠이다.,Baseball is a sport where individual skills are crucial.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4224,감정표현,고객센터 안내 스타일,조건문,불편하신 점이 있으시면 언제든지 말씀해 주세요.,"If you have any inconveniences, please feel free to let us know.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9160,사회/뉴스,SNS 스타일,조건문,새로운 경험을 원한다면 여행을 가는 것도 좋아.,"If you're looking for new experiences, going on a trip might be great.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2107,기술,뉴스 기사체,조건문,가상현실 기술이 발전하면 교육 방식이 혁신적으로 변할 것이다.,"If virtual reality technology advances, the methods of education will undergo a revolutionary change.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2680,업무,감정 표현 스타일,단문,이 제안은 긍정적으로 검토해볼 가치가 있어.,This proposal is worth considering positively.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1388,건강,고객센터 안내 스타일,조건문,스트레스를 관리하면 정신 건강에 도움이 됩니다.,Managing stress will help improve your mental health.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8475,IT/AI,조언/상담 스타일,원인·결과문,데이터 분석 없이는 정확한 의사결정을 내리기 어려워.,"Without data analysis, it's difficult to make accurate decisions.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9170,사회/뉴스,SNS 스타일,비교문,기후 변화 문제는 더 심각해지고 있어.,The issue of climate change is becoming more serious compared to previous years.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7084,문화/예술,고객센터 안내 스타일,비교문,한국의 전통 음악은 깊은 감성을 담고 있어요.,Traditional Korean music carries profound emotions.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1280,건강,감정 표현 스타일,비교문,하루에 물을 많이 마시는 것이 충분히 마시는 것보다 중요해.,Drinking plenty of water each day is more important than simply staying hydrated.,gpt-4o-mini,v2_structured,20251205_160208,valid
+805,일상생활,감정 표현 스타일,비교문,음악을 듣는 건 감정을 표현하는 가장 좋은 방법이야.,Listening to music is the best way to express emotions.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1556,식당,SNS 스타일,복문,"이 식당은 예약이 필수야, 미리 해두는 게 좋겠어.","You need a reservation at this restaurant, so it's better to book in advance.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9006,자기계발,고객센터 안내 스타일,원인·결과문,독서는 지식을 확장하는 데 도움이 됩니다.,Reading helps expand your knowledge.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4567,경제/금융,감정 표현 스타일,단문,물가 상승이 우리에게 큰 부담이에요.,The rise in prices is a significant burden for us.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9180,사회/뉴스,SNS 스타일,원인·결과문,교통사고가 많아져서 안전 교육이 필요해.,"Due to the increase in traffic accidents, safety training is necessary.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4842,스포츠,문어체(보고서 스타일),원인·결과문,팀워크는 승리에 중요한 요소입니다.,Teamwork is a crucial factor for victory.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3595,시간관리,기술 설명체,비교문,"계획 없이 시간을 보내는 것보다, 미리 계획을 세우는 것이 더 효율적이다.",Spending time without a plan is less efficient than setting a plan in advance.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6036,교통,감정 표현 스타일,원인·결과문,운전을 조심하면 안전할 수 있어.,"If you drive carefully, you can ensure safety.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6853,문화/예술,뉴스 기사체,비교문,한국의 연극은 사회적 이슈를 다루는 경향이 있다.,Korean theater tends to address social issues in its narratives.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4178,감정표현,조언/상담 스타일,비교문,기분이 좋을 때 주변과 나누는 게 중요해.,It's important to share your good feelings with those around you.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1309,건강,조언/상담 스타일,단문,가벼운 산책으로 기분이 좋아질 수 있어.,A light walk can improve your mood.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3453,시간관리,SNS 스타일,단문,시간을 잘 관리하면 스트레스가 줄어.,Good time management reduces stress.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3696,시간관리,조언/상담 스타일,복문,자신의 하루 일과를 기록해 보는 것도 좋은 방법이야.,Keeping a record of your daily routine is also a great method.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4243,감정표현,고객센터 안내 스타일,비교문,지루함은 재미보다 더 빨리 찾아올 수 있어.,Boredom can set in faster than fun.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2199,기술,감정 표현 스타일,단문,인공지능은 이제 우리 친구 같은 존재야.,Artificial intelligence has become like a friend to us.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4426,경제/금융,SNS 스타일,원인·결과문,금리가 낮아지면 대출이 쉬워져.,Lower interest rates make borrowing easier.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6151,교통,고객센터 안내 스타일,원인·결과문,도로 공사로 인해 우회해야 할 수도 있습니다.,You may need to take a detour due to road construction.,gpt-4o-mini,v2_structured,20251205_160208,valid
+944,건강,대화체,단문,건강은 정말 중요해.,Health is really important.,gpt-4o-mini,v2_structured,20251205_160208,valid
+823,일상생활,감정 표현 스타일,명령/요청문,다 같이 영화 보러 가자!,Let's all go watch a movie together!,gpt-4o-mini,v2_structured,20251205_160208,valid
+5006,스포츠,기술 설명체,조건문,조깅을 하면 심폐 기능이 향상될 가능성이 커요.,"If you jog regularly, there's a high chance your cardiovascular function will improve.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6613,고객센터,고객센터 안내 스타일,비교문,계정 문제는 고객센터에 직접 문의해야 해요.,"For account issues, you need to contact customer service directly.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8357,IT/AI,기술 설명체,원인·결과문,블록체인 기술을 도입하면 거래의 투명성이 높아진다.,Implementing blockchain technology increases the transparency of transactions.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5620,기후/날씨,조언/상담 스타일,원인·결과문,바다 수온이 오르면 해양 생태계가 파괴될 수 있어요.,"If ocean temperatures rise, marine ecosystems may be destroyed.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4548,경제/금융,기술 설명체,원인·결과문,"주식 시장이 불안정할 경우, 투자자들은 위험 회피 성향을 보인다.","When the stock market is unstable, investors tend to exhibit risk-averse behavior.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2539,업무,SNS 스타일,원인·결과문,새로운 프로젝트가 시작돼서 긴장돼.,I'm nervous because a new project is starting.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5208,스포츠,고객센터 안내 스타일,원인·결과문,충분한 수면은 운동의 효과를 극대화해줍니다.,Adequate sleep maximizes the effects of exercise.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9034,사회/뉴스,대화체,복문,재난 관리 방안에 대해 전문가들이 의견을 나누었어.,Experts shared their opinions on disaster management strategies.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8546,IT/AI,고객센터 안내 스타일,명령/요청문,자주 묻는 질문을 확인해 보세요.,Check out our frequently asked questions.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3055,교육,뉴스 기사체,조건문,"수업에 늦으면, 중요한 내용을 놓칠 수 있다.","If you arrive late to class, you might miss important information.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3676,시간관리,감정 표현 스타일,명령/요청문,효율적으로 시간을 사용해야 해.,You need to use your time efficiently.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7777,직장 관계,뉴스 기사체,단문,동료들과의 관계가 업무 효율성에 긍정적입니다.,Good relationships with colleagues positively impact work efficiency.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7219,쇼핑,문어체(보고서 스타일),원인·결과문,"장바구니에 아이템을 추가한 후, 결제를 고민하게 된다.","After adding items to the cart, one tends to hesitate before checkout.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6723,문화/예술,문어체(보고서 스타일),조건문,다양한 예술 장르가 공존해야 한다고 생각한다.,I believe that various art genres should coexist.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3301,교육,고객센터 안내 스타일,비교문,교육의 질은 학생의 성과에 큰 영향을 미칩니다.,The quality of education greatly affects student outcomes.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3311,교육,고객센터 안내 스타일,원인·결과문,"학생들이 수업에 집중하지 않으면, 학습 효과가 떨어질 수 있습니다.","If students do not concentrate in class, their learning outcomes may decline.",gpt-4o-mini,v2_structured,20251205_160208,valid
+7222,쇼핑,문어체(보고서 스타일),원인·결과문,모바일 앱을 이용하면 쇼핑이 더욱 편리해진다.,Using a mobile app makes shopping much more convenient.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5955,교통,기술 설명체,조건문,신호등이 빨간색이면 멈추는 것이 필수적이다.,"If the traffic light is red, it is essential to stop.",gpt-4o-mini,v2_structured,20251205_160208,valid
+833,일상생활,조언/상담 스타일,단문,독서를 통해 지식을 쌓아.,Build your knowledge through reading.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3463,시간관리,SNS 스타일,복문,스마트폰 알림을 조절하는 것도 좋은 방법이야.,Adjusting your smartphone notifications is a smart way to stay focused.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7644,직장 관계,대화체,명령/요청문,상사에게 보고서 제출해줘.,Please submit the report to the boss.,gpt-4o-mini,v2_structured,20251205_160208,valid
+55,여행,대화체,명령/요청문,여행 가방은 어떻게 챙길까?,How should I pack my suitcase for the trip?,gpt-4o-mini,v2_structured,20251205_160208,valid
+3452,시간관리,SNS 스타일,단문,너무 많은 일을 한꺼번에 하지 마.,Don't try to do too many things at once.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6306,고객센터,SNS 스타일,조건문,상담원이 너무 친절했으면 좋겠어.,I wish the customer service agent was really friendly.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1482,식당,대화체,명령/요청문,불고기 하나 주세요.,"I'd like one bulgogi, please.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4874,스포츠,SNS 스타일,복문,이번 시즌은 정말 많은 변화가 있더라.,There have been so many changes this season.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8039,직장 관계,고객센터 안내 스타일,비교문,동료와의 소통은 업무 효율성을 높여준다.,Communication with colleagues enhances work efficiency.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3336,시간관리,대화체,단문,우선순위를 정하는 게 핵심이야.,Setting priorities is the key.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6017,교통,감정 표현 스타일,조건문,전철이 늦으면 불안해질 거야.,You might feel anxious if the train is delayed.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4927,스포츠,뉴스 기사체,단문,경기장에서 많은 팬들이 응원하고 있다.,Many fans are cheering in the stadium.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5798,교통,문어체(보고서 스타일),원인·결과문,횡단보도를 무단으로 건너면 보행자가 위험에 처합니다.,Crossing the street outside the crosswalk puts pedestrians at risk.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9335,사회/뉴스,감정 표현 스타일,조건문,"학교가 더 안전해진다면, 부모들은 안심할 수 있을 것 같아요.","If schools become safer, parents will likely feel more at ease.",gpt-4o-mini,v2_structured,20251205_160208,valid
+5084,스포츠,감정 표현 스타일,원인·결과문,팬들의 응원이 선수들에게 큰 힘이 됐어.,The fans' support gave the players a tremendous boost.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6646,문화/예술,대화체,복문,한국의 춤은 각 지역의 특색을 잘 반영하고 있어.,Korean dances reflect the unique characteristics of each region very well.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5491,기후/날씨,기술 설명체,비교문,"온난화가 진행되면 해수면이 상승하고, 이는 해안 지역에 위협이 된다.","As global warming progresses, sea levels rise, posing a threat to coastal areas.",gpt-4o-mini,v2_structured,20251205_160208,valid
+769,일상생활,감정 표현 스타일,단문,나는 친구들과 영화 보러 갔어.,I went to the movies with my friends.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2066,기술,SNS 스타일,원인·결과문,사물인터넷 덕분에 우리의 집이 더 스마트해지고 있어.,"Thanks to the Internet of Things, our homes are becoming smarter.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9020,사회/뉴스,대화체,단문,정부의 정책이 바뀔 것 같아.,It seems like the government's policies are going to change.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7312,쇼핑,뉴스 기사체,조건문,쇼핑몰에서 할인 상품을 찾으면 좋은 가격에 살 수 있어요.,"If you find discounted items at the mall, you can buy them at a great price.",gpt-4o-mini,v2_structured,20251205_160208,valid
+8478,IT/AI,조언/상담 스타일,원인·결과문,소프트웨어 품질이 낮으면 사용자의 불만이 증가해.,"If software quality is low, user dissatisfaction increases.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4525,경제/금융,기술 설명체,조건문,금리가 인상되면 대출이 줄어들 수 있다.,"When interest rates are raised, borrowing may decline.",gpt-4o-mini,v2_structured,20251205_160208,valid
+2718,업무,감정 표현 스타일,원인·결과문,피드백을 받으면 더 나은 결과를 낼 수 있어요.,Receiving feedback allows for better results.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2080,기술,뉴스 기사체,단문,컴퓨터의 처리 속도가 빠르다.,The processing speed of computers is fast.,gpt-4o-mini,v2_structured,20251205_160208,valid
+952,건강,대화체,단문,야채를 많이 먹어야 해.,You should eat a lot of vegetables.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8059,직장 관계,고객센터 안내 스타일,명령/요청문,팀 미팅 일정 조정 부탁해요.,Please adjust the team meeting schedule.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2483,업무,문어체(보고서 스타일),원인·결과문,정기적인 피드백이 이루어지면 성과 향상에 기여합니다.,Regular feedback contributes to performance improvement.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1760,식당,감정 표현 스타일,원인·결과문,웨이터가 친절하니까 기분이 좋아져.,The waiter's kindness lifts my spirits.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4423,경제/금융,SNS 스타일,비교문,무역 전쟁은 글로벌 경제에 큰 타격을 줘.,Trade wars can deal a heavy blow to the global economy.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6705,문화/예술,문어체(보고서 스타일),복문,미술관에서 열린 이번 전시회는 많은 사람들의 관심을 끌었습니다.,The recent exhibition held at the art museum drew significant public interest.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5183,스포츠,고객센터 안내 스타일,조건문,상해가 발생하면 즉시 의료진에게 보고해야 합니다.,"If an injury occurs, you must report it to the medical staff immediately.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3702,시간관리,조언/상담 스타일,조건문,할 일을 미리 계획하면 스트레스를 줄일 수 있어.,You can reduce stress if you plan your tasks in advance.,gpt-4o-mini,v2_structured,20251205_160208,valid
+4244,감정표현,고객센터 안내 스타일,원인·결과문,"고객님, 불편을 드려서 죄송합니다.",We apologize for any inconvenience caused.,gpt-4o-mini,v2_structured,20251205_160208,valid
+689,일상생활,뉴스 기사체,비교문,요리하는 것은 정리하는 것보다 더 즐겁습니다.,Cooking is more enjoyable than cleaning up.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3433,시간관리,문어체(보고서 스타일),원인·결과문,일정을 미리 정해두지 않으면 예기치 않은 일이 발생할 수 있습니다.,"Without a predetermined schedule, unexpected events may occur.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4945,스포츠,뉴스 기사체,조건문,기술이 향상된다면 더 많은 기회를 얻을 것입니다.,"If their skills improve, they will get more opportunities.",gpt-4o-mini,v2_structured,20251205_160208,valid
+967,건강,대화체,조건문,물 대신 탄산음료를 마시면 건강에 좋지 않아.,"If you drink soda instead of water, it's not good for your health.",gpt-4o-mini,v2_structured,20251205_160208,valid
+9004,자기계발,고객센터 안내 스타일,원인·결과문,시간 관리를 잘하면 스트레스를 줄일 수 있습니다.,Good time management can reduce your stress levels.,gpt-4o-mini,v2_structured,20251205_160208,valid
+2714,업무,감정 표현 스타일,원인·결과문,작업이 늦어지면 스트레스를 받을 수 있어.,"If the work gets delayed, it can cause stress.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4758,스포츠,대화체,복문,전 세계의 많은 사람들이 축구를 좋아해.,Many people around the world love soccer.,gpt-4o-mini,v2_structured,20251205_160208,valid
+9065,사회/뉴스,대화체,원인·결과문,"그래서, 심리 상담 서비스가 더욱 필요해요.","As a result, psychological counseling services are increasingly needed.",gpt-4o-mini,v2_structured,20251205_160208,valid
+6321,고객센터,SNS 스타일,비교문,채팅 기능이 있어서 정말 편리해.,It's really convenient to have a chat feature.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5976,교통,기술 설명체,원인·결과문,도로가 넓어지면 교통 흐름이 원활해진다.,"When roads widen, traffic flow becomes smoother.",gpt-4o-mini,v2_structured,20251205_160208,valid
+3573,시간관리,기술 설명체,단문,분명한 목표가 있어야 해.,You need to have clear objectives.,gpt-4o-mini,v2_structured,20251205_160208,valid
+5300,기후/날씨,문어체(보고서 스타일),조건문,겨울철에 눈이 많이 내리면 교통이 혼잡해질 수 있다.,"If it snows heavily during winter, traffic may become congested.",gpt-4o-mini,v2_structured,20251205_160208,valid
+1991,기술,문어체(보고서 스타일),비교문,모바일 앱은 사용자 경험을 개인화할 수 있는 기회를 제공합니다.,Mobile applications offer opportunities to personalize user experiences.,gpt-4o-mini,v2_structured,20251205_160208,valid
+1206,건강,기술 설명체,조건문,스트레스를 관리하지 않으면 여러 질병에 걸릴 수 있다.,"If you don't manage stress, you could develop various illnesses.",gpt-4o-mini,v2_structured,20251205_160208,valid
+4972,스포츠,뉴스 기사체,명령/요청문,야구 팬들은 시즌이 시작되기를 손꼽아 기다리고 있어요.,Baseball fans are eagerly counting down to the start of the season.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6784,문화/예술,SNS 스타일,비교문,한국 영화는 스토리텔링이 강해.,Korean films are known for their strong storytelling.,gpt-4o-mini,v2_structured,20251205_160208,valid
+3601,시간관리,기술 설명체,비교문,효율적인 업무 처리는 스트레스를 줄이는 데 도움이 된다.,Efficient task management helps reduce stress.,gpt-4o-mini,v2_structured,20251205_160208,valid
+6491,고객센터,감정 표현 스타일,비교문,응답을 기다리는 건 마치 경주에서 최종 결승선을 기다리는 것 같아.,Waiting for a response feels like anticipating the finish line in a race.,gpt-4o-mini,v2_structured,20251205_160208,valid
+8071,IT/AI,대화체,단문,데이터 분석은 의사결정에 도움이 돼.,Data analysis helps in making decisions.,gpt-4o-mini,v2_structured,20251205_160208,valid
+7974,직장 관계,조언/상담 스타일,조건문,"자신의 의견을 표현하는 것이 중요하니, 주저하지 마.","It's important to express your opinions, so don’t hesitate.",gpt-4o-mini,v2_structured,20251205_160208,valid
